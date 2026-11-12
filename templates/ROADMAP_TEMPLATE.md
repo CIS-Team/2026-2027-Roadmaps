@@ -1,64 +1,33 @@
-# [Track or specialization] Roadmap — 2026–2027
+# Optional roadmap starter ✨
 
-> Copy this file into the relevant track folder. Replace bracketed text and remove this instruction before submitting.
+**This is inspiration, not a required format.** Copy any parts that help, rename or remove sections, or use your own document or visual design instead.
 
-## Overview
+There is no need to fill every section. Remove these introductory notes if you copy this file into a track.
 
-- **Audience:** [Who should follow this roadmap?]
-- **Language:** [English / Arabic / other]
-- **Prerequisites:** [Required knowledge and tools]
-- **Estimated duration:** [Weeks, assuming hours per week]
-- **Authors:** [GitHub profile links]
-- **Resources last checked:** [YYYY-MM-DD]
+---
 
-## Learning outcomes
+# Your roadmap title
 
-By completing this roadmap, learners will be able to:
+A short introduction in your own words.
 
-- [Measurable outcome]
-- [Measurable outcome]
+## Who might find this useful?
+Describe the learners you have in mind and anything helpful to know before starting.
 
-## Getting started
+## The path
+Arrange your ideas however you prefer: topics, stages, a weekly plan, a diagram, a checklist, or a narrative.
 
-[Setup instructions and a short prerequisite self-check.]
+## Resources worth exploring
+Share links and explain why you found them useful. Mention language or cost when it helps readers choose.
 
-## Stage 1 — Foundations
+## Try it yourself
+If useful for your subject, suggest an exercise, project, challenge, or practical activity.
 
-**Goal:** [Expected outcome]
-**Estimated effort:** [Hours]
-
-### Topics
-
-- [ ] [Required topic]
-- [ ] [Required topic]
-- [ ] [Optional topic, clearly marked]
-
-### Resources
-
-| Resource | Why use it? | Language | Cost |
-| --- | --- | --- | --- |
-| [Title](https://example.com) | [What this teaches] | [Language] | [Free / Paid / Freemium] |
-
-### Practice and checkpoint
-
-- **Exercise:** [A concrete task]
-- **Ready to continue when:** [Observable completion criteria]
-
-## Stage 2 — Applied skills
-
-[Repeat the stage structure. Add or remove stages to fit the subject.]
-
-## Final project
-
-- **Brief:** [What to build or produce]
-- **Requirements:** [Features or deliverables]
-- **Success criteria:** [How learners can assess their work]
-- **Stretch goals:** [Optional challenges]
-
-## Next steps
-
-[Suggested follow-up topics and ways to continue practicing.]
+## Advice from experience
+What helped you? What would you do differently? What can a beginner safely leave for later?
 
 ## Credits
+Add your name or GitHub profile if you wish, and acknowledge any sources you used.
 
-[Original sources, adaptations, and contributor acknowledgments.]
+---
+
+Prefer a PDF, presentation, or external guide? Add it to the track with a short introduction and a readable link. You do not need to convert it to this outline.
