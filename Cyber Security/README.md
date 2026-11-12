@@ -1,17 +1,21 @@
-# Cyber Security · 2026–2027
+<p align="center">
+<img src="../assets/cis-season-2026-2027.jpeg" alt="CIS Team" width="120">
+</p>
 
-**Status: Coming soon — awaiting mentor submissions**
+<h1 align="center">Cyber Security · 2026–2027</h1>
 
-CIS Team mentors: share a path that helps someone get started or go further in Cyber Security. Written guides, PDFs, diagrams, presentations, and readable external links are welcome.
+<p align="center">Explore the foundations, web security, and malware analysis.</p>
 
-## Mentor roadmaps
+---
 
-_No roadmaps have been merged for this track yet. This season's mentors will share their paths here._
+## 🔐 Roadmaps
 
-## Add your contribution
+| Roadmap | What you’ll find |
+| --- | --- |
+| 🌱 **[Cybersecurity Entry](cyber-entry-roadmap.md)** | Network fundamentals, Linux, Python, Security+ fundamentals, and cryptography |
+| 🌐 **[Web Security & Penetration Testing](penetration-testing-roadmap.md)** | A 16-week path through web development, web vulnerabilities, labs, and reporting |
+| 🔬 **[Malware Analysis](malware-analysis-roadmap.md)** | C, assembly, operating systems, reverse engineering, and malware analysis |
 
-Add your file or a short introduction with a link here, then list it above and open a pull request. Choose your own structure and language; the [starter outline](../templates/ROADMAP_TEMPLATE.md) is completely optional.
+---
 
-Need help with GitHub? Read the [contribution guide](../CONTRIBUTING.md).
-
-[← Explore all tracks](../README.md)
+[← Explore all CIS Team roadmaps](../README.md)

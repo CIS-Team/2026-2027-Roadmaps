@@ -25,7 +25,7 @@ The **CIS Team Roadmaps 2026–2027** collection brings together learning paths 
 
 Whether you’re a university student, a self-learner, or simply curious about a new field, these roadmaps connect learning topics with resources and practical ideas you can explore at your own pace.
 
-> 🌱 **This season is taking shape.** Roadmaps will appear as they are published. Until then, explore our [2025–2026 collection](https://github.com/CIS-Team/2025-2026-Roadmaps).
+> 🌱 **This season is taking shape.** [Cyber Security roadmaps are now available](Cyber%20Security/README.md), with more tracks on the way. You can also explore our [2025–2026 collection](https://github.com/CIS-Team/2025-2026-Roadmaps).
 
 ## 🚀 Quick start
 
