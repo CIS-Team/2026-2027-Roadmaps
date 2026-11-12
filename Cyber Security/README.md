@@ -1,17 +1,17 @@
-# Cyber Security — 2026–2027
+# Cyber Security · 2026–2027
 
 **Status: Awaiting contributions**
 
-This folder is ready for this season's Cyber Security roadmaps. No completed roadmap has been published here yet.
+Share a path that helps someone get started or go further in Cyber Security. Written guides, PDFs, diagrams, presentations, and readable external links are welcome.
 
-## Submit a roadmap
+## Community roadmaps
 
-Read the [contribution guide](../CONTRIBUTING.md), copy the [roadmap template](../templates/ROADMAP_TEMPLATE.md), and add your completed Markdown file to this folder. Add a link below in the same pull request.
+_No roadmaps have been merged for this track yet. Yours could be the first._
 
-## Roadmaps
+## Add your contribution
 
-_No submissions merged yet._
+Add your file or a short introduction with a link here, then list it above and open a pull request. Choose your own structure and language; the [starter outline](../templates/ROADMAP_TEMPLATE.md) is completely optional.
 
-## Publishing checklist
+Need help with GitHub? Read the [contribution guide](../CONTRIBUTING.md).
 
-When the first complete roadmap is merged, replace the empty-state text with its link, change this status to **Available**, and update the root [track directory](../README.md).
+[← Explore all tracks](../README.md)
