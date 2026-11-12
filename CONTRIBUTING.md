@@ -1,50 +1,53 @@
-# Contributing to CIS Team Roadmaps
+# Share your path with CIS Team 🤝
 
-Thank you for helping learners in the 2026–2027 season.
+Your roadmap does not need to look like anyone else's. We welcome different approaches, experience levels, and ways of explaining things.
 
-## Choose your contribution
+> A useful contribution helps someone know what to do next.
 
-- Submit a new roadmap or improve an existing one.
-- Suggest a resource, correct an error, or report a broken link.
-- Propose a new track using the roadmap proposal issue template.
+## Your format is welcome
 
-Check existing issues and pull requests to avoid duplicating work. If someone is already working on the topic, coordinate in that issue.
+Use Markdown, a PDF, a diagram, a presentation, a document, or a publicly readable link. English, Arabic, and bilingual contributions are welcome.
 
-## Submit through the GitHub website
+The [starter outline](templates/ROADMAP_TEMPLATE.md) is **optional**. You can change every section, add your own design, or start from scratch. There is no required number of stages, resource table, timeline, review-date field, or final project.
 
-1. Fork this repository into your account.
-2. In your fork, create a branch such as `roadmap/frontend-react`.
-3. Copy [the template](templates/ROADMAP_TEMPLATE.md).
-4. Open the appropriate track folder and choose **Add file → Create new file**. Use a descriptive name, for example `react-roadmap.md`, and paste your completed roadmap.
-5. Commit the file to your branch. Add a relative link to it in that track's `README.md`.
-6. Open **Contribute → Open pull request**, targeting `CIS-Team/2026-2027-Roadmaps` on `main`.
-7. Complete the pull request checklist. Use a draft PR if you are still writing.
-8. Respond to review feedback. A maintainer will merge the accepted contribution.
+A focused guide is welcome too—you do not have to cover an entire field.
 
-Contributors who already have write access can create a branch in this repository and follow the same pull request process.
+## A few things we ask
 
-## File organization
+- Make the topic and starting point clear to your intended learners.
+- Check that links work and shared documents can be opened by readers. Note paid resources where relevant.
+- Share only content you have permission to publish and credit sources or adaptations.
+- Keep feedback respectful. Do not include private information or credentials.
 
-Keep the existing track names. Use lowercase, hyphen-separated filenames such as `nodejs-roadmap.md`. Put supporting images in an `assets/` subfolder within the track and use relative links. Keep files small and avoid uploading videos, course archives, or generated project dependencies.
+Helpful extras, **when they fit your roadmap**, include prerequisites, recommended resources, practice ideas, milestones, and lessons from your own experience. These are suggestions, not an acceptance checklist.
 
-A Markdown roadmap should remain readable without opening a PDF or external tool. If supplying a PDF, include a Markdown overview covering prerequisites, outcomes, stages, contributor credits, and a link to the PDF.
+## Contribute from your browser
 
-## Content checklist
+1. **Fork** this repository. If you already have write access, you can use a branch here instead.
+2. Open the appropriate track folder in your fork.
+3. Use **Add file → Create new file** for a written guide, or **Upload files** for a document or visual. For an external roadmap, create a short Markdown introduction with its title and readable link.
+4. Give the file a clear name. Add a link to it in the track's `README.md` so people can find it.
+5. Commit your changes, then choose **Contribute → Open pull request** targeting `CIS-Team/2026-2027-Roadmaps`, branch `main`.
+6. Describe what you are sharing. A maintainer will review it and help with any changes.
 
-- Explain the intended audience, prerequisites, and measurable outcomes.
-- Order topics logically and distinguish required topics from optional ones.
-- Give realistic time estimates with weekly effort assumptions; avoid job guarantees.
-- Include practical exercises and at least one final project.
-- Describe each resource and label its language and whether it is free, paid, or freemium.
-- Open and check all links before submission; record the review date.
-- Credit original sources and contributors. Do not copy material without permission.
-- Remove template instructions and unfilled placeholders.
-- Add your roadmap to the track index. Change the root track status to **Available** when the first complete roadmap is ready for merge.
+You can also use Git locally if you prefer. Keep related changes together; no special branch or filename convention is required.
 
-English and Arabic contributions are welcome; state the roadmap language and resource languages clearly.
+## Organizing your work
 
-## Review
+Use an existing track folder where possible. You can create subfolders for specializations, resources, or images when useful. Prefer relative links for files in this repository.
 
-Keep each PR focused on one roadmap or one related improvement. Maintainers may request edits before merging. A roadmap being merged means it is available for learners; it does not guarantee that third-party resources will remain current.
+For PDFs, presentations, diagrams, and external links, a short introduction in the track README is enough—there is no requirement to rewrite the roadmap in Markdown.
 
-Please keep discussion respectful and constructive. Do not include passwords, access tokens, private learner information, or materials you cannot share publicly.
+For large media, link to a readable hosted version instead of uploading videos or course archives. Check existing contributions before creating a duplicate; different perspectives on the same topic are welcome when clearly named.
+
+Missing a track? Propose one in an issue or explain the new folder in your pull request. Prior approval is not required.
+
+## Review is a conversation
+
+Maintainers review usefulness, clarity, accessible links, and attribution—not conformity to a template. They can help with formatting, folder organization, and updating the track directory.
+
+Use a draft pull request when you want feedback on unfinished work. Partial contributions are welcome when their scope and unfinished sections are clear.
+
+When the first usable roadmap is merged for a track, the maintainer updates its status and removes the empty-state message. Contributors do not need to manage repository-wide status updates.
+
+Thank you for making the next person's first steps easier.
