@@ -1,94 +1,102 @@
-<div align="center">
+<p align="center">
+<img src="assets/cis-season-2026-2027.jpeg" alt="CIS Team season logo" width="160">
+</p>
 
-<img src="assets/cis-season-2026-2027.jpeg" alt="CIS Team — 2026–2027 season" width="180">
+<h1 align="center">CIS Team Roadmaps 2026–2027</h1>
 
-# CIS Team Roadmaps · 2026–2027
+<p align="center">
+Your next step into technology, design, and creativity.<br>
+Explore learning paths, discover useful resources, and turn knowledge into practice.
+</p>
 
-**Find your direction. Build your skills. Create something meaningful.**
+<p align="center">
+<img src="https://raw.githubusercontent.com/CIS-Team/2025-2026-Roadmaps/main/assest/slogan.png" alt="Path to Success" width="550">
+</p>
 
-<img src="https://raw.githubusercontent.com/CIS-Team/2025-2026-Roadmaps/main/assest/slogan.png" alt="CIS Team — Path to Success" width="500">
-
-[Explore the roadmaps](#roadmaps) · [Start learning](#getting-started) · [Connect with CIS](#connect)
-
-</div>
+<p align="center">
+<strong>Explore Roadmaps · Start Learning · Build Your Future</strong>
+</p>
 
 ---
 
-## 🌿 A new season of learning
+## 📖 About
 
-A collection of learning paths from **CIS Team**, bringing together topics, resources, and practical guidance across technology, design, and creativity.
+The **CIS Team Roadmaps 2026–2027** collection brings together learning paths across **13 fields**, helping you find a starting point and move forward with direction.
 
-Whether you are choosing your first field or exploring a new direction, start with what interests you and build from there. Each roadmap offers its own approach, giving you room to learn at a pace that works for you.
+Whether you’re a university student, a self-learner, or simply curious about a new field, these roadmaps connect learning topics with resources and practical ideas you can explore at your own pace.
 
-> **2026–2027 is taking shape.** Track folders are ready, and roadmaps will appear as they are published. You can explore the [2025–2026 collection](https://github.com/CIS-Team/2025-2026-Roadmaps) while you wait.
+> 🌱 **This season is taking shape.** Roadmaps will appear as they are published. Until then, explore our [2025–2026 collection](https://github.com/CIS-Team/2025-2026-Roadmaps).
 
-<a id="roadmaps"></a>
+## 🚀 Quick start
 
-## 🧭 Explore the roadmaps
+1. **Choose your field** — follow what interests you.
+2. **Build your foundation** — understand the essentials.
+3. **Learn and practice** — apply each new idea.
+4. **Create something** — bring your skills together.
+5. **Keep growing** — reflect, improve, and explore further.
 
-### Development & infrastructure
+---
 
-| Track | What you’ll explore |
+## 🧭 Available learning paths
+
+| Field | What you’ll explore |
 | --- | --- |
-| 🌐 **[Frontend](Frontend/README.md)** | Web interfaces, accessibility, and interactive experiences |
-| ⚙️ **[Backend](Backend/README.md)** | APIs, databases, and server-side applications |
-| 📱 **[Flutter](Flutter/README.md)** | Cross-platform applications and mobile experiences |
-| ☁️ **[Cloud Computing](Cloud%20Computing/README.md)** | Cloud platforms, infrastructure, and deployment |
-| 🎮 **[Game Development](Game%20Development/README.md)** | Game engines, mechanics, and playable worlds |
-
-### Foundations, data & analysis
-
-| Track | What you’ll explore |
-| --- | --- |
-| 💻 **[Computer Science](Computer%20Science/README.md)** | Programming, algorithms, data structures, and systems |
 | 🤖 **[AI & Data Science](AI%20%26%20Data%20Science/README.md)** | Data analysis, machine learning, and intelligent systems |
-| 🔐 **[Cyber Security](Cyber%20Security/README.md)** | Security foundations, defensive thinking, and ethical practice |
+| ⚙️ **[Backend](Backend/README.md)** | APIs, databases, server-side development, and architecture |
 | 📊 **[Business Analysis](Business%20Analysis/README.md)** | Requirements, business processes, and problem solving |
-
-### Design & creativity
-
-| Track | What you’ll explore |
-| --- | --- |
+| ☁️ **[Cloud Computing](Cloud%20Computing/README.md)** | Cloud platforms, infrastructure, deployment, and operations |
+| 💻 **[Computer Science](Computer%20Science/README.md)** | Programming, algorithms, data structures, and systems |
+| 🔐 **[Cyber Security](Cyber%20Security/README.md)** | Security foundations, defensive skills, and ethical practice |
+| 📱 **[Flutter](Flutter/README.md)** | Cross-platform applications and mobile development |
+| 🌐 **[Frontend](Frontend/README.md)** | Web interfaces, accessibility, and interactive experiences |
+| 🎮 **[Game Development](Game%20Development/README.md)** | Game engines, programming, mechanics, and playable worlds |
+| 🖌️ **[Graphic Design](Graphic%20Design/README.md)** | Visual communication, composition, and branding |
+| 📣 **[Marketing & Content](Marketing%20%26%20Content/README.md)** | Strategy, content creation, and storytelling |
 | 🎨 **[UI / UX](UI%20-%20UX/README.md)** | User research, interaction design, and product experiences |
-| 🖌️ **[Graphic Design](Graphic%20Design/README.md)** | Visual communication, composition, and brand identity |
 | 🎬 **[Video Editing](Video%20Editing/README.md)** | Editing, motion, and visual storytelling |
-| 📣 **[Marketing & Content](Marketing%20%26%20Content/README.md)** | Strategy, storytelling, and connecting with audiences |
 
 ---
 
-<a id="getting-started"></a>
+## ✨ More than a list of resources
 
-## 🚀 Make it your journey
+| | |
+| --- | --- |
+| 🧭 **Direction** | Understand where to begin and what to explore next. |
+| 📚 **Discovery** | Find resources that help connect ideas and deepen understanding. |
+| 🛠 **Practice** | Turn learning into exercises, experiments, and projects. |
+| 🌱 **Growth** | Build confidence through steady, meaningful progress. |
 
-**Choose a track → Learn the foundations → Put it into practice → Build and grow**
+## 🛤 Your learning journey
 
-1. **Follow your curiosity.** Open a track and find a starting point that suits your experience.
-2. **Take one step at a time.** Focus on understanding a topic before collecting more resources.
-3. **Try what you learn.** Turn an idea into a small exercise, design, experiment, or project.
-4. **Keep your progress visible.** Save your work, revisit what was difficult, and build on each small win.
+**Choose a track → Learn the fundamentals → Practice → Build → Grow**
 
-*A roadmap gives you direction. Practice turns it into progress.*
+A roadmap gives you direction, but your progress comes from using what you learn. Start small, stay curious, and give yourself room to make mistakes.
 
-## 📂 Find your way around
+> **“Learn something new. Build something small. Take another step.”**
 
-Each track has a **README** linking to its available roadmaps and resources. Paths may take different forms—written guides, visual maps, PDFs, or online documents.
+## 🎯 Make the most of your roadmap
 
-Looking for earlier material? Visit **[CIS Team Roadmaps 2025–2026](https://github.com/CIS-Team/2025-2026-Roadmaps)**.  
-Sharing a roadmap this season? The details are in the **[contribution guide](CONTRIBUTING.md)**.
+- **Focus on understanding.** One resource used well is better than many left unfinished.
+- **Practice regularly.** Small, consistent efforts build lasting skills.
+- **Save your work.** Your notes, projects, and designs show your progress.
+- **Follow your own pace.** Learning is a journey, not a race.
 
 ---
 
-<a id="connect"></a>
+## 📚 Continue exploring
 
-<div align="center">
+Looking for earlier learning paths? Browse **[CIS Team Roadmaps 2025–2026](https://github.com/CIS-Team/2025-2026-Roadmaps)**.
 
-### 🌍 Stay connected with CIS Team
+Have a roadmap ready for this season? See the **[submission guide](CONTRIBUTING.md)**.
 
-[Website](https://cisteam.org) · [GitHub](https://github.com/CIS-Team) · [LinkedIn](https://linkedin.com/company/cisteam15) · [Facebook](https://facebook.com/cisteam15) · [Instagram](https://instagram.com/cisteam15)
+## 🌍 Connect with CIS Team
 
-**Learn · Build · Practice · Grow**
+[🌐 Website](https://cisteam.org) · [💻 GitHub](https://github.com/CIS-Team) · [💼 LinkedIn](https://linkedin.com/company/cisteam15) · [📘 Facebook](https://facebook.com/cisteam15) · [📸 Instagram](https://instagram.com/cisteam15)
 
-Made with 💚 by **CIS Team**  
-*Share the path with someone taking their first step.*
+---
 
-</div>
+<p align="center">
+<strong>💚 Learn · Build · Practice · Grow</strong><br><br>
+Developed with care by <strong>CIS Team</strong><br>
+Share the path with someone taking their first step.
+</p>
