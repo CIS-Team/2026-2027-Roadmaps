@@ -1,4 +1,6 @@
-# Share your path with CIS Team 🤝
+# CIS Team mentor submission guide 🤝
+
+This season's roadmaps are prepared and submitted by **mentors from CIS Team**. Students can ask questions, suggest resources, and report corrections through issues.
 
 Your roadmap does not need to look like anyone else's. We welcome different approaches, experience levels, and ways of explaining things.
 

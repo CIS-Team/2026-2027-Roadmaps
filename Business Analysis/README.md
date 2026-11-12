@@ -1,12 +1,12 @@
 # Business Analysis · 2026–2027
 
-**Status: Awaiting contributions**
+**Status: Coming soon — awaiting mentor submissions**
 
-Share a path that helps someone get started or go further in Business Analysis. Written guides, PDFs, diagrams, presentations, and readable external links are welcome.
+CIS Team mentors: share a path that helps someone get started or go further in Business Analysis. Written guides, PDFs, diagrams, presentations, and readable external links are welcome.
 
-## Community roadmaps
+## Mentor roadmaps
 
-_No roadmaps have been merged for this track yet. Yours could be the first._
+_No roadmaps have been merged for this track yet. This season's mentors will share their paths here._
 
 ## Add your contribution
 
