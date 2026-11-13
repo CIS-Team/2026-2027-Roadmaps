@@ -215,7 +215,7 @@ Stay connected and follow our updates:
 ---
 
 <p align="center">
-  <img src="assets/cis-season-2026-2027.jpeg" alt="CIS Team 2026–2027 Season Logo" width="160" />
+  <img src="assets/cis-slogan.png" alt="CIS Team Slogan" width="160" />
 </p>
 
 <p align="center">
