@@ -50,7 +50,13 @@ Whether you're exploring a new field or looking to strengthen your existing skil
 
 ## Table of Contents
 
+- [Overview](#overview)
 - [Explore Our Learning Paths](#explore-our-learning-paths)
+  - [1. Software Development](#software-development)
+  - [2. Computer Science & Artificial Intelligence](#computer-science-and-artificial-intelligence)
+  - [3. Infrastructure & Cybersecurity](#infrastructure-and-cybersecurity)
+  - [4. Design & Creative Media](#design-and-creative-media)
+  - [5. Business & Marketing](#business-and-marketing)
 - [What's Inside Each Roadmap](#whats-inside-each-roadmap)
 - [Your Learning Journey](#your-learning-journey)
 - [Our Learning Principles](#our-learning-principles)
@@ -66,43 +72,129 @@ Whether you're exploring a new field or looking to strengthen your existing skil
 
 Explore our **13 learning tracks**, organized by domain to help you find your starting point, discover new fields, and develop complementary skills across disciplines.
 
+<a id="software-development"></a>
+
 ### 1. Software Development
 
-| Track                                                                                               | Focus Areas & Core Technologies                                                                                  | Ideal For                                                                           |
-| :-------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- |
-| [**Frontend Development**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Frontend)       | Semantic HTML, modern CSS, JavaScript/TypeScript, component frameworks, web accessibility, and performance.      | Creators passionate about building interactive, responsive user interfaces.         |
-| [**Backend Development**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Backend)         | RESTful APIs, relational/NoSQL databases, authentication, caching, server-side architecture, and testing.        | Builders who enjoy system logic, data flow, and scalable infrastructure.            |
-| [**Flutter Development**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Flutter)         | Dart fundamentals, cross-platform widget architecture, state management, API integration, and native deployment. | Developers aiming to build high-performance iOS and Android apps from one codebase. |
-| [**Game Development**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Game%20Development) | Game engines, physics simulations, gameplay mechanics, C#/C++ scripting, and interactive 2D/3D world-building.   | Creators who want to blend software engineering with interactive storytelling.      |
+#### [**Frontend Development**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Frontend)
+
+**Focus Areas & Core Technologies**  
+Semantic HTML, modern CSS, JavaScript/TypeScript, component frameworks, web accessibility, and performance.
+
+**Ideal For**  
+Creators passionate about building interactive, responsive user interfaces.
+
+#### [**Backend Development**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Backend)
+
+**Focus Areas & Core Technologies**  
+RESTful APIs, relational/NoSQL databases, authentication, caching, server-side architecture, and testing.
+
+**Ideal For**  
+Builders who enjoy system logic, data flow, and scalable infrastructure.
+
+#### [**Flutter Development**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Flutter)
+
+**Focus Areas & Core Technologies**  
+Dart fundamentals, cross-platform widget architecture, state management, API integration, and native deployment.
+
+**Ideal For**  
+Developers aiming to build high-performance iOS and Android apps from one codebase.
+
+#### [**Game Development**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Game%20Development)
+
+**Focus Areas & Core Technologies**  
+Game engines, physics simulations, gameplay mechanics, C#/C++ scripting, and interactive 2D/3D world-building.
+
+**Ideal For**  
+Creators who want to blend software engineering with interactive storytelling.
+
+<a id="computer-science-and-artificial-intelligence"></a>
 
 ### 2. Computer Science & Artificial Intelligence
 
-| Track                                                                                                       | Focus Areas & Core Technologies                                                                                      | Ideal For                                                                                          |
-| :---------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- |
-| [**Computer Science**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Computer%20Science)         | Programming paradigms, algorithms, data structures, problem-solving, operating systems, and networking.              | Learners seeking a strong theoretical and algorithmic foundation in computer science.              |
-| [**AI & Data Science**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/AI%20%26%20Data%20Science) | Python for data, statistical analysis, machine learning models, deep learning fundamentals, and intelligent systems. | Analytical thinkers interested in turning data into intelligent solutions and predictive insights. |
+#### [**Computer Science**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Computer%20Science)
+
+**Focus Areas & Core Technologies**  
+Programming paradigms, algorithms, data structures, problem-solving, operating systems, and networking.
+
+**Ideal For**  
+Learners seeking a strong theoretical and algorithmic foundation in computer science.
+
+#### [**AI & Data Science**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/AI%20%26%20Data%20Science)
+
+**Focus Areas & Core Technologies**  
+Python for data, statistical analysis, machine learning models, deep learning fundamentals, and intelligent systems.
+
+**Ideal For**  
+Analytical thinkers interested in turning data into intelligent solutions and predictive insights.
+
+<a id="infrastructure-and-cybersecurity"></a>
 
 ### 3. Infrastructure & Cybersecurity
 
-| Track                                                                                             | Focus Areas & Core Technologies                                                                                    | Ideal For                                                                      |
-| :------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
-| [**Cloud Computing**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Cloud%20Computing) | Cloud service models, Linux administration, containerization, CI/CD pipelines, and scalable deployment operations. | Engineers interested in infrastructure automation, reliability, and DevOps.    |
-| [**Cybersecurity**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Cyber%20Security)    | Network defense, web vulnerability assessment, cryptography, Linux security, and ethical penetration testing.      | Problem-solvers dedicated to protecting systems, networks, and digital assets. |
+#### [**Cloud Computing**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Cloud%20Computing)
+
+**Focus Areas & Core Technologies**  
+Cloud service models, Linux administration, containerization, CI/CD pipelines, and scalable deployment operations.
+
+**Ideal For**  
+Engineers interested in infrastructure automation, reliability, and DevOps.
+
+#### [**Cybersecurity**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Cyber%20Security)
+
+**Focus Areas & Core Technologies**  
+Network defense, web vulnerability assessment, cryptography, Linux security, and ethical penetration testing.
+
+**Ideal For**  
+Problem-solvers dedicated to protecting systems, networks, and digital assets.
+
+<a id="design-and-creative-media"></a>
 
 ### 4. Design & Creative Media
 
-| Track                                                                                           | Focus Areas & Core Technologies                                                                                       | Ideal For                                                                                 |
-| :---------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
-| [**UI/UX Design**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/UI%20-%20UX)        | User research, information architecture, wireframing, design systems, interactive prototyping, and usability testing. | Empathetic problem-solvers who want to design intuitive, human-centered digital products. |
-| [**Graphic Design**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Graphic%20Design) | Visual hierarchy, typography, color theory, layout composition, and cohesive brand identity systems.                  | Visual communicators interested in creating compelling print and digital designs.         |
-| [**Video Editing**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Video%20Editing)   | Timeline editing, pacing, motion graphics, sound design, color grading, and visual storytelling.                      | Storytellers who enjoy transforming raw footage into engaging visual content.             |
+#### [**UI/UX Design**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/UI%20-%20UX)
+
+**Focus Areas & Core Technologies**  
+User research, information architecture, wireframing, design systems, interactive prototyping, and usability testing.
+
+**Ideal For**  
+Empathetic problem-solvers who want to design intuitive, human-centered digital products.
+
+#### [**Graphic Design**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Graphic%20Design)
+
+**Focus Areas & Core Technologies**  
+Visual hierarchy, typography, color theory, layout composition, and cohesive brand identity systems.
+
+**Ideal For**  
+Visual communicators interested in creating compelling print and digital designs.
+
+#### [**Video Editing**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Video%20Editing)
+
+**Focus Areas & Core Technologies**  
+Timeline editing, pacing, motion graphics, sound design, color grading, and visual storytelling.
+
+**Ideal For**  
+Storytellers who enjoy transforming raw footage into engaging visual content.
+
+<a id="business-and-marketing"></a>
 
 ### 5. Business & Marketing
 
-| Track                                                                                                         | Focus Areas & Core Technologies                                                                           | Ideal For                                                                                 |
-| :------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
-| [**Business Analysis**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Business%20Analysis)         | Requirements engineering, BPMN process modeling, stakeholder alignment, and data-driven product strategy. | Strategic thinkers who enjoy bridging the gap between business goals and technical teams. |
-| [**Marketing & Content**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Marketing%20%26%20Content) | Digital growth strategy, content architecture, copywriting, audience analytics, and brand storytelling.   | Communicators focused on growing communities, products, and brand reach.                  |
+#### [**Business Analysis**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Business%20Analysis)
+
+**Focus Areas & Core Technologies**  
+Requirements engineering, BPMN process modeling, stakeholder alignment, and data-driven product strategy.
+
+**Ideal For**  
+Strategic thinkers who enjoy bridging the gap between business goals and technical teams.
+
+#### [**Marketing & Content**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Marketing%20%26%20Content)
+
+**Focus Areas & Core Technologies**  
+Digital growth strategy, content architecture, copywriting, audience analytics, and brand storytelling.
+
+**Ideal For**  
+Communicators focused on growing communities, products, and brand reach.
 
 <p align="right">
   <a href="#roadmaps-top">⬆ Back to Top</a>
@@ -133,30 +225,18 @@ _The content and structure may vary across tracks to reflect the scope and learn
 
 Every learning journey is different. These steps provide a flexible direction to help you build knowledge, gain practical experience, and grow in your chosen field.
 
-```text
-       CHOOSE YOUR TRACK
-              │
-              ▼
-      LEARN THE FUNDAMENTALS
-              │
-              ▼
-        PRACTICE & APPLY
-              │
-              ▼
-       BUILD REAL PROJECTS
-              │
-              ▼
-        REVIEW & IMPROVE
-              │
-              ▼
-          KEEP GROWING
-```
+1. **CHOOSE YOUR TRACK**
+2. **LEARN THE FUNDAMENTALS**
+3. **PRACTICE & APPLY**
+4. **BUILD REAL PROJECTS**
+5. **REVIEW & IMPROVE**
+6. **KEEP GROWING**
 
 > **Remember:** A roadmap is a guide, not a race. Follow it at your own pace, adapt it to your needs, and focus on understanding rather than simply completing topics.
 
 ---
 
-### Our Learning Principles
+## Our Learning Principles
 
 We believe meaningful learning goes beyond completing courses. It's about understanding concepts, thinking independently, and applying knowledge through consistent practice.
 
@@ -182,7 +262,7 @@ You can contribute by:
 - Adding practical exercises and project ideas.
 - Suggesting new topics and improvements.
 
-#### How to Contribute
+### How to Contribute
 
 1. Fork the repository.
 2. Create a branch for your changes.
