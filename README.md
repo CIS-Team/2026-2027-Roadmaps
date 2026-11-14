@@ -1,5 +1,7 @@
 <a id="top"></a>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:A855F7&height=100&section=header" width="100%" alt="" />
+
 <p align="center">
   <img src="./assets/cis-logo-2026-2027.jpeg"
        alt="CIS Team 2026–2027 Season Logo"
@@ -26,9 +28,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tracks-13-2563EB?style=flat-square" alt="13 Tracks">
-  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-16A34A?style=flat-square" alt="Learning Levels">
-  <img src="https://img.shields.io/badge/Contributions-Welcome-8957E5?style=flat-square" alt="Contributions Welcome">
+  <img src="https://img.shields.io/badge/Tracks-13-0EA5E9?style=for-the-badge" alt="13 Tracks">
+  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-6366F1?style=for-the-badge" alt="Learning Levels">
+  <img src="https://img.shields.io/badge/Contributions-Welcome-A855F7?style=for-the-badge" alt="Contributions Welcome">
 </p>
 
 ---
@@ -43,6 +45,7 @@
 
 Whether you're exploring a new field or looking to strengthen your existing skills, these roadmaps help you find direction, stay consistent, and gain practical experience.
 
+> [!IMPORTANT]
 > **Our Golden Rule:**
 > Learn the fundamentals, practice consistently, and apply what you learn.
 
@@ -50,13 +53,11 @@ Whether you're exploring a new field or looking to strengthen your existing skil
 
 ## Table of Contents
 
-- [Explore Our Learning Paths](#explore-our-learning-paths)
-- [What's Inside Each Roadmap](#whats-inside-each-roadmap)
-- [Your Learning Journey](#your-learning-journey)
-- [Our Learning Principles](#our-learning-principles)
-- [Contributing](#contributing)
-- [Previous Season](#previous-season)
-- [Connect with CIS Team](#connect-with-cis-team)
+<div align="center">
+
+**[Explore Our Learning Paths](#explore-our-learning-paths)** · **[What's Inside Each Roadmap](#whats-inside-each-roadmap)** · **[Your Learning Journey](#your-learning-journey)** · **[Our Learning Principles](#our-learning-principles)** · **[Contributing](#contributing)** · **[Previous Season](#previous-season)** · **[Connect with CIS Team](#connect-with-cis-team)**
+
+</div>
 
 ---
 
@@ -70,39 +71,39 @@ Explore our **13 learning tracks**, organized by domain to help you find your st
 
 | Track                                                                                               | Focus Areas & Core Technologies                                                                                  | Ideal For                                                                           |
 | :-------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- |
-| [**Frontend Development**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Frontend)       | Semantic HTML, modern CSS, JavaScript/TypeScript, component frameworks, web accessibility, and performance.      | Creators passionate about building interactive, responsive user interfaces.         |
-| [**Backend Development**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Backend)         | RESTful APIs, relational/NoSQL databases, authentication, caching, server-side architecture, and testing.        | Builders who enjoy system logic, data flow, and scalable infrastructure.            |
-| [**Flutter Development**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Flutter)         | Dart fundamentals, cross-platform widget architecture, state management, API integration, and native deployment. | Developers aiming to build high-performance iOS and Android apps from one codebase. |
-| [**Game Development**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Game%20Development) | Game engines, physics simulations, gameplay mechanics, C#/C++ scripting, and interactive 2D/3D world-building.   | Creators who want to blend software engineering with interactive storytelling.      |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Frontend"><img src="https://img.shields.io/badge/Frontend%20Development-0EA5E9?style=for-the-badge" alt="Frontend Development" /></a>       | Semantic HTML, modern CSS, JavaScript/TypeScript, component frameworks, web accessibility, and performance.      | Creators passionate about building interactive, responsive user interfaces.         |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Backend"><img src="https://img.shields.io/badge/Backend%20Development-0EA5E9?style=for-the-badge" alt="Backend Development" /></a>         | RESTful APIs, relational/NoSQL databases, authentication, caching, server-side architecture, and testing.        | Builders who enjoy system logic, data flow, and scalable infrastructure.            |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Flutter"><img src="https://img.shields.io/badge/Flutter%20Development-0EA5E9?style=for-the-badge" alt="Flutter Development" /></a>         | Dart fundamentals, cross-platform widget architecture, state management, API integration, and native deployment. | Developers aiming to build high-performance iOS and Android apps from one codebase. |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Game%20Development"><img src="https://img.shields.io/badge/Game%20Development-0EA5E9?style=for-the-badge" alt="Game Development" /></a> | Game engines, physics simulations, gameplay mechanics, C#/C++ scripting, and interactive 2D/3D world-building.   | Creators who want to blend software engineering with interactive storytelling.      |
 
 ### 2. Computer Science & Artificial Intelligence
 
 | Track                                                                                                       | Focus Areas & Core Technologies                                                                                      | Ideal For                                                                                          |
 | :---------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- |
-| [**Computer Science**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Computer%20Science)         | Programming paradigms, algorithms, data structures, problem-solving, operating systems, and networking.              | Learners seeking a strong theoretical and algorithmic foundation in computer science.              |
-| [**AI & Data Science**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/AI%20%26%20Data%20Science) | Python for data, statistical analysis, machine learning models, deep learning fundamentals, and intelligent systems. | Analytical thinkers interested in turning data into intelligent solutions and predictive insights. |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Computer%20Science"><img src="https://img.shields.io/badge/Computer%20Science-6366F1?style=for-the-badge" alt="Computer Science" /></a>         | Programming paradigms, algorithms, data structures, problem-solving, operating systems, and networking.              | Learners seeking a strong theoretical and algorithmic foundation in computer science.              |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/AI%20%26%20Data%20Science"><img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-6366F1?style=for-the-badge" alt="AI &amp; Data Science" /></a> | Python for data, statistical analysis, machine learning models, deep learning fundamentals, and intelligent systems. | Analytical thinkers interested in turning data into intelligent solutions and predictive insights. |
 
 ### 3. Infrastructure & Cybersecurity
 
 | Track                                                                                             | Focus Areas & Core Technologies                                                                                    | Ideal For                                                                      |
 | :------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
-| [**Cloud Computing**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Cloud%20Computing) | Cloud service models, Linux administration, containerization, CI/CD pipelines, and scalable deployment operations. | Engineers interested in infrastructure automation, reliability, and DevOps.    |
-| [**Cybersecurity**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Cyber%20Security)    | Network defense, web vulnerability assessment, cryptography, Linux security, and ethical penetration testing.      | Problem-solvers dedicated to protecting systems, networks, and digital assets. |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Cloud%20Computing"><img src="https://img.shields.io/badge/Cloud%20Computing-0891B2?style=for-the-badge" alt="Cloud Computing" /></a> | Cloud service models, Linux administration, containerization, CI/CD pipelines, and scalable deployment operations. | Engineers interested in infrastructure automation, reliability, and DevOps.    |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Cyber%20Security"><img src="https://img.shields.io/badge/Cybersecurity-0891B2?style=for-the-badge" alt="Cybersecurity" /></a>    | Network defense, web vulnerability assessment, cryptography, Linux security, and ethical penetration testing.      | Problem-solvers dedicated to protecting systems, networks, and digital assets. |
 
 ### 4. Design & Creative Media
 
 | Track                                                                                           | Focus Areas & Core Technologies                                                                                       | Ideal For                                                                                 |
 | :---------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
-| [**UI/UX Design**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/UI%20-%20UX)        | User research, information architecture, wireframing, design systems, interactive prototyping, and usability testing. | Empathetic problem-solvers who want to design intuitive, human-centered digital products. |
-| [**Graphic Design**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Graphic%20Design) | Visual hierarchy, typography, color theory, layout composition, and cohesive brand identity systems.                  | Visual communicators interested in creating compelling print and digital designs.         |
-| [**Video Editing**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Video%20Editing)   | Timeline editing, pacing, motion graphics, sound design, color grading, and visual storytelling.                      | Storytellers who enjoy transforming raw footage into engaging visual content.             |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/UI%20-%20UX"><img src="https://img.shields.io/badge/UI%2FUX%20Design-A855F7?style=for-the-badge" alt="UI/UX Design" /></a>        | User research, information architecture, wireframing, design systems, interactive prototyping, and usability testing. | Empathetic problem-solvers who want to design intuitive, human-centered digital products. |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Graphic%20Design"><img src="https://img.shields.io/badge/Graphic%20Design-A855F7?style=for-the-badge" alt="Graphic Design" /></a> | Visual hierarchy, typography, color theory, layout composition, and cohesive brand identity systems.                  | Visual communicators interested in creating compelling print and digital designs.         |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Video%20Editing"><img src="https://img.shields.io/badge/Video%20Editing-A855F7?style=for-the-badge" alt="Video Editing" /></a>   | Timeline editing, pacing, motion graphics, sound design, color grading, and visual storytelling.                      | Storytellers who enjoy transforming raw footage into engaging visual content.             |
 
 ### 5. Business & Marketing
 
 | Track                                                                                                         | Focus Areas & Core Technologies                                                                           | Ideal For                                                                                 |
 | :------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
-| [**Business Analysis**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Business%20Analysis)         | Requirements engineering, BPMN process modeling, stakeholder alignment, and data-driven product strategy. | Strategic thinkers who enjoy bridging the gap between business goals and technical teams. |
-| [**Marketing & Content**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Marketing%20%26%20Content) | Digital growth strategy, content architecture, copywriting, audience analytics, and brand storytelling.   | Communicators focused on growing communities, products, and brand reach.                  |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Business%20Analysis"><img src="https://img.shields.io/badge/Business%20Analysis-7C3AED?style=for-the-badge" alt="Business Analysis" /></a>         | Requirements engineering, BPMN process modeling, stakeholder alignment, and data-driven product strategy. | Strategic thinkers who enjoy bridging the gap between business goals and technical teams. |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Marketing%20%26%20Content"><img src="https://img.shields.io/badge/Marketing%20%26%20Content-7C3AED?style=for-the-badge" alt="Marketing &amp; Content" /></a> | Digital growth strategy, content architecture, copywriting, audience analytics, and brand storytelling.   | Communicators focused on growing communities, products, and brand reach.                  |
 
 <p align="right">
   <a href="#roadmaps-top">⬆ Back to Top</a>
@@ -152,6 +153,7 @@ Every learning journey is different. These steps provide a flexible direction to
           KEEP GROWING
 ```
 
+> [!TIP]
 > **Remember:** A roadmap is a guide, not a race. Follow it at your own pace, adapt it to your needs, and focus on understanding rather than simply completing topics.
 
 ---
@@ -205,12 +207,14 @@ Looking for the previous edition?
 
 Stay connected and follow our updates:
 
-- [Website](https://cisteam.org)
-- [GitHub](https://github.com/CIS-Team)
-- [Discord](https://discord.gg/gNyZGDnvna)
-- [LinkedIn](https://linkedin.com/company/cisteam15)
-- [Facebook](https://facebook.com/cisteam15)
-- [Instagram](https://instagram.com/cisteam15)
+<p align="center">
+<a href="https://cisteam.org"><img src="https://img.shields.io/badge/Website-6366F1?style=for-the-badge" alt="Website" /></a>
+<a href="https://github.com/CIS-Team"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://discord.gg/gNyZGDnvna"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://linkedin.com/company/cisteam15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://facebook.com/cisteam15"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://instagram.com/cisteam15"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ---
 
@@ -225,3 +229,5 @@ Stay connected and follow our updates:
 <p align="center">
   <a href="#top">Back to Top</a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:A855F7&height=100&section=footer" width="100%" alt="" />
