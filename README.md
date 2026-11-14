@@ -29,14 +29,14 @@
 
 <a id="prologue"></a>
 
-## 🌅 Prologue: The Edge of the Forest
+## 🌅 Welcome to the Forest
 
 <p align="center">
-  <em>It is early. Mist threads between the trunks, a bird is testing the first note of the day,<br/>
-  and in front of you the path splits. Not once, but thirteen times.</em>
+  <em>Morning mist drifts between the trees, and birds begin to sing.<br/>
+  Ahead of you, one path opens into thirteen trails.</em>
 </p>
 
-Nobody will tell you which trail is the right one, and that is the point. Every trail leads somewhere worth going, and every traveler who walks one comes out the other side as someone new.
+There is no single right trail. Choose one that interests you, explore at your own pace, and build new skills along the way.
 
 **CIS Team Roadmaps (2026 - 2027)** is your guide to that forest. It brings together learning tracks across technology, design, business, and digital media, so you can find your direction, stay consistent, and gain practical experience.
 
@@ -54,17 +54,25 @@ Nobody will tell you which trail is the right one, and that is the point. Every 
 
 ## 🗺️ The Map of the Forest
 
-Before you step in, study the map. **Five regions** rise from a single trailhead, each home to its own trails. Find the one that calls to you.
+Start with the map. **Five learning areas** bring together thirteen tracks. Choose an area below to explore its tracks.
 
 <p align="center">
   <img src="./assets/forest-map.svg" alt="Illustrated map of the forest: five regions and thirteen trails rising from one trailhead" width="100%" />
+</p>
+
+<p align="center">
+  <a href="#chapter-1">Software Development</a> ·
+  <a href="#chapter-2">Computer Science &amp; AI</a> ·
+  <a href="#chapter-3">Infrastructure &amp; Cybersecurity</a><br/>
+  <a href="#chapter-4">Design &amp; Creative Media</a> ·
+  <a href="#chapter-5">Business &amp; Marketing</a>
 </p>
 
 ### 🪧 Trail Signs
 
 <div align="center">
 
-**[🌲 The Trails](#paths)** · **[🎒 Your Pack](#pack)** · **[🧭 Your Journey](#journey)** · **[📜 Laws of the Forest](#laws)** · **[🌱 Plant a Tree](#contributing)** · **[🍂 Old Growth](#old-growth)** · **[🔥 The Campfire](#campfire)**
+**[🌲 Learning Tracks](#paths)** · **[🎒 Roadmap Contents](#pack)** · **[🧭 Your Journey](#journey)** · **[📜 Learning Principles](#laws)** · **[🌱 Contribute](#contributing)** · **[🍂 Previous Season](#old-growth)** · **[🔥 Connect with Us](#campfire)**
 
 </div>
 
@@ -74,22 +82,22 @@ Before you step in, study the map. **Five regions** rise from a single trailhead
 
 ## 🌲 The Trails
 
-Thirteen learning tracks, organized by region, so you can find your starting point, discover new fields, and develop complementary skills across disciplines.
+Thirteen learning tracks, grouped into five areas, to help you choose where to start, explore new fields, and learn skills that work well together.
 
 <a id="chapter-1"></a>
 
 ### Chapter I · The Builders’ Canopy
 
-<sub>**Software Development**</sub>
+**Software Development**
 
-> *High above the forest floor, builders raise bridges of light between the branches. Some shape what travelers see, some tend what lies beneath the soil, some send seeds on the wind, and some light fireflies just to see who comes to play.*
+> *In the canopy, builders connect the branches. Here, you can create websites, build the systems behind them, make mobile apps, or bring games to life.*
 
-| Track                                                                                                                                                                                                                                                                  | Focus Areas & Core Technologies                                                                                  | Ideal For                                                                           |
+| Track                                                                                                                                                                                                                                                                  | What You'll Learn                                                                                  | Good For                                                                           |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- |
-| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Frontend"><img src="https://img.shields.io/badge/Frontend%20Development-176B50?style=for-the-badge&labelColor=073F38" alt="Frontend Development" /></a><br/><sub><i>🖥️ The Sunlit Canopy</i></sub>      | Semantic HTML, modern CSS, JavaScript/TypeScript, component frameworks, web accessibility, and performance.      | Creators passionate about building interactive, responsive user interfaces.         |
-| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Backend"><img src="https://img.shields.io/badge/Backend%20Development-176B50?style=for-the-badge&labelColor=073F38" alt="Backend Development" /></a><br/><sub><i>⚙️ The Deep Roots</i></sub>         | RESTful APIs, relational/NoSQL databases, authentication, caching, server-side architecture, and testing.        | Builders who enjoy system logic, data flow, and scalable infrastructure.            |
-| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Flutter"><img src="https://img.shields.io/badge/Flutter%20Development-176B50?style=for-the-badge&labelColor=073F38" alt="Flutter Development" /></a><br/><sub><i>📱 The Windborne Seeds</i></sub>      | Dart fundamentals, cross-platform widget architecture, state management, API integration, and native deployment. | Developers aiming to build high-performance iOS and Android apps from one codebase. |
-| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Game%20Development"><img src="https://img.shields.io/badge/Game%20Development-176B50?style=for-the-badge&labelColor=073F38" alt="Game Development" /></a><br/><sub><i>🎮 The Firefly Hollow</i></sub> | Game engines, physics simulations, gameplay mechanics, C#/C++ scripting, and interactive 2D/3D world-building.   | Creators who want to blend software engineering with interactive storytelling.      |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Frontend"><img src="https://img.shields.io/badge/Frontend%20Development-176B50?style=for-the-badge&labelColor=073F38" alt="Frontend Development" /></a><br/><sub><i>🖥️ The Sunlit Canopy</i></sub>      | Well-structured HTML, modern CSS, JavaScript/TypeScript, UI frameworks, web accessibility, and faster-loading pages.      | People who want to build interactive websites that work well on different screen sizes.         |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Backend"><img src="https://img.shields.io/badge/Backend%20Development-176B50?style=for-the-badge&labelColor=073F38" alt="Backend Development" /></a><br/><sub><i>⚙️ The Deep Roots</i></sub>         | REST APIs, SQL and NoSQL databases, user sign-in, caching, server-side system design, and testing.        | People who enjoy working with data and building systems that can grow.            |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Flutter"><img src="https://img.shields.io/badge/Flutter%20Development-176B50?style=for-the-badge&labelColor=073F38" alt="Flutter Development" /></a><br/><sub><i>📱 The Windborne Seeds</i></sub>      | Dart basics, Flutter widgets, state management, connecting to APIs, and publishing iOS and Android apps. | People who want to build iOS and Android apps from one codebase. |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Game%20Development"><img src="https://img.shields.io/badge/Game%20Development-176B50?style=for-the-badge&labelColor=073F38" alt="Game Development" /></a><br/><sub><i>🎮 The Firefly Hollow</i></sub> | Game engines, physics, gameplay, C#/C++ programming, and building interactive 2D and 3D worlds.   | People who want to combine programming and storytelling to make games.      |
 
 <p align="right"><a href="#map">🗺️ Back to the map</a></p>
 
@@ -97,14 +105,14 @@ Thirteen learning tracks, organized by region, so you can find your starting poi
 
 ### Chapter II · The Elder Grove
 
-<sub>**Computer Science & Artificial Intelligence**</sub>
+**Computer Science & Artificial Intelligence**
 
-> *Here the oldest oaks stand, and their roots reach deeper than any trend. Beneath the leaf litter, a hidden network of mycelium carries messages between every tree, quietly learning the shape of the whole forest.*
+> *The oldest trees have deep roots. Build a strong foundation in computer science, or explore how data and AI help us find patterns and solve problems.*
 
-| Track                                                                                                                                                                                                                                                                              | Focus Areas & Core Technologies                                                                                      | Ideal For                                                                                          |
+| Track                                                                                                                                                                                                                                                                              | What You'll Learn                                                                                      | Good For                                                                                          |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- |
-| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Computer%20Science"><img src="https://img.shields.io/badge/Computer%20Science-176B50?style=for-the-badge&labelColor=073F38" alt="Computer Science" /></a><br/><sub><i>🌳 The Elder Oak</i></sub>                   | Programming paradigms, algorithms, data structures, problem-solving, operating systems, and networking.              | Learners seeking a strong theoretical and algorithmic foundation in computer science.              |
-| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/AI%20%26%20Data%20Science"><img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-176B50?style=for-the-badge&labelColor=073F38" alt="AI &amp; Data Science" /></a><br/><sub><i>🍄 The Mycelium Network</i></sub> | Python for data, statistical analysis, machine learning models, deep learning fundamentals, and intelligent systems. | Analytical thinkers interested in turning data into intelligent solutions and predictive insights. |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Computer%20Science"><img src="https://img.shields.io/badge/Computer%20Science-176B50?style=for-the-badge&labelColor=073F38" alt="Computer Science" /></a><br/><sub><i>🌳 The Elder Oak</i></sub>                   | Different ways to structure programs, algorithms, data structures, problem-solving, operating systems, and networking.              | Learners who want to understand how computers work and how to solve problems with code.              |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/AI%20%26%20Data%20Science"><img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-176B50?style=for-the-badge&labelColor=073F38" alt="AI &amp; Data Science" /></a><br/><sub><i>🍄 The Mycelium Network</i></sub> | Python for data, statistics, machine learning, deep learning basics, and building AI systems. | People who enjoy finding patterns in data and using AI to solve problems or make predictions. |
 
 <p align="right"><a href="#map">🗺️ Back to the map</a></p>
 
@@ -112,14 +120,14 @@ Thirteen learning tracks, organized by region, so you can find your starting poi
 
 ### Chapter III · The Riverwatch
 
-<sub>**Infrastructure & Cybersecurity**</sub>
+**Infrastructure & Cybersecurity**
 
-> *Where the river bends, mist gathers above the canopy and watchtowers stand guard on the banks. Some keep the water flowing. Others keep the gate shut against whatever creeps out of the thorns.*
+> *Along the river, some keep the water flowing while others guard the forest. Learn to run reliable systems in the cloud or protect them from attacks.*
 
-| Track                                                                                                                                                                                                                                | Focus Areas & Core Technologies                                                                                    | Ideal For                                                                      |
+| Track                                                                                                                                                                                                                                | What You'll Learn                                                                                    | Good For                                                                      |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
-| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Cloud%20Computing"><img src="https://img.shields.io/badge/Cloud%20Computing-176B50?style=for-the-badge&labelColor=073F38" alt="Cloud Computing" /></a><br/><sub><i>☁️ The Mist Above the Trees</i></sub> | Cloud service models, Linux administration, containerization, CI/CD pipelines, and scalable deployment operations. | Engineers interested in infrastructure automation, reliability, and DevOps.    |
-| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Cyber%20Security"><img src="https://img.shields.io/badge/Cybersecurity-176B50?style=for-the-badge&labelColor=073F38" alt="Cybersecurity" /></a><br/><sub><i>🛡️ The Thorn Gate</i></sub>                | Network defense, web vulnerability assessment, cryptography, Linux security, and ethical penetration testing.      | Problem-solvers dedicated to protecting systems, networks, and digital assets. |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Cloud%20Computing"><img src="https://img.shields.io/badge/Cloud%20Computing-176B50?style=for-the-badge&labelColor=073F38" alt="Cloud Computing" /></a><br/><sub><i>☁️ The Mist Above the Trees</i></sub> | Cloud services, managing Linux systems, containers, automated testing and deployment (CI/CD), and running apps as demand grows. | People who want to automate tasks, keep systems reliable, and connect software development with operations (DevOps).    |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Cyber%20Security"><img src="https://img.shields.io/badge/Cybersecurity-176B50?style=for-the-badge&labelColor=073F38" alt="Cybersecurity" /></a><br/><sub><i>🛡️ The Thorn Gate</i></sub>                | Protecting networks, finding website security weaknesses, cryptography, Linux security, and testing systems with permission.      | People who enjoy solving problems and protecting systems, networks, and data. |
 
 <p align="right"><a href="#map">🗺️ Back to the map</a></p>
 
@@ -127,15 +135,15 @@ Thirteen learning tracks, organized by region, so you can find your starting poi
 
 ### Chapter IV · The Meadow of Colors
 
-<sub>**Design & Creative Media**</sub>
+**Design & Creative Media**
 
-> *The trees part and the light pours in. Wildflowers of every color lean toward the sun, a river carries lanterns downstream, and someone is already drawing the path the next traveler will follow.*
+> *The trees open onto a colorful meadow. Design easy-to-use products, create clear visuals, or tell stories through video.*
 
-| Track                                                                                                                                                                                                                  | Focus Areas & Core Technologies                                                                                       | Ideal For                                                                                 |
+| Track                                                                                                                                                                                                                  | What You'll Learn                                                                                       | Good For                                                                                 |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
-| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/UI%20-%20UX"><img src="https://img.shields.io/badge/UI%2FUX%20Design-176B50?style=for-the-badge&labelColor=073F38" alt="UI/UX Design" /></a><br/><sub><i>🧭 The Trailmakers</i></sub>              | User research, information architecture, wireframing, design systems, interactive prototyping, and usability testing. | Empathetic problem-solvers who want to design intuitive, human-centered digital products. |
-| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Graphic%20Design"><img src="https://img.shields.io/badge/Graphic%20Design-176B50?style=for-the-badge&labelColor=073F38" alt="Graphic Design" /></a><br/><sub><i>🎨 The Wildflower Meadow</i></sub> | Visual hierarchy, typography, color theory, layout composition, and cohesive brand identity systems.                  | Visual communicators interested in creating compelling print and digital designs.         |
-| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Video%20Editing"><img src="https://img.shields.io/badge/Video%20Editing-176B50?style=for-the-badge&labelColor=073F38" alt="Video Editing" /></a><br/><sub><i>🎬 The Lantern River</i></sub>        | Timeline editing, pacing, motion graphics, sound design, color grading, and visual storytelling.                      | Storytellers who enjoy transforming raw footage into engaging visual content.             |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/UI%20-%20UX"><img src="https://img.shields.io/badge/UI%2FUX%20Design-176B50?style=for-the-badge&labelColor=073F38" alt="UI/UX Design" /></a><br/><sub><i>🧭 The Trailmakers</i></sub>              | User research, organizing content, wireframes, design systems, interactive prototypes, and testing how easy a product is to use. | People who want to understand users and design products that are easy to use. |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Graphic%20Design"><img src="https://img.shields.io/badge/Graphic%20Design-176B50?style=for-the-badge&labelColor=073F38" alt="Graphic Design" /></a><br/><sub><i>🎨 The Wildflower Meadow</i></sub> | Guiding attention through design, typography, color theory, layouts, and creating a consistent look for a brand.                  | People who enjoy sharing ideas through print and digital design.         |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Video%20Editing"><img src="https://img.shields.io/badge/Video%20Editing-176B50?style=for-the-badge&labelColor=073F38" alt="Video Editing" /></a><br/><sub><i>🎬 The Lantern River</i></sub>        | Editing clips, pacing, motion graphics, sound design, adjusting colors, and telling stories through video.                      | People who enjoy turning raw footage into videos that hold viewers' attention.             |
 
 <p align="right"><a href="#map">🗺️ Back to the map</a></p>
 
@@ -143,14 +151,14 @@ Thirteen learning tracks, organized by region, so you can find your starting poi
 
 ### Chapter V · The Crossroads Village
 
-<sub>**Business & Marketing**</sub>
+**Business & Marketing**
 
-> *Smoke curls from chimneys where all the trails finally meet. In the cartographer’s hut, goals are turned into plans. In the square, around the bonfire, stories travel farther than any road.*
+> *All the trails meet in the village. Turn business goals into clear plans, or use content and marketing to reach people and grow a community.*
 
-| Track                                                                                                                                                                                                                                                             | Focus Areas & Core Technologies                                                                           | Ideal For                                                                                 |
+| Track                                                                                                                                                                                                                                                             | What You'll Learn                                                                           | Good For                                                                                 |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
-| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Business%20Analysis"><img src="https://img.shields.io/badge/Business%20Analysis-176B50?style=for-the-badge&labelColor=073F38" alt="Business Analysis" /></a><br/><sub><i>📊 The Cartographer’s Hut</i></sub>  | Requirements engineering, BPMN process modeling, stakeholder alignment, and data-driven product strategy. | Strategic thinkers who enjoy bridging the gap between business goals and technical teams. |
-| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Marketing%20%26%20Content"><img src="https://img.shields.io/badge/Marketing%20%26%20Content-176B50?style=for-the-badge&labelColor=073F38" alt="Marketing &amp; Content" /></a><br/><sub><i>📣 The Bonfire Square</i></sub> | Digital growth strategy, content architecture, copywriting, audience analytics, and brand storytelling.   | Communicators focused on growing communities, products, and brand reach.                  |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Business%20Analysis"><img src="https://img.shields.io/badge/Business%20Analysis-176B50?style=for-the-badge&labelColor=073F38" alt="Business Analysis" /></a><br/><sub><i>📊 The Cartographer’s Hut</i></sub>  | Understanding business needs, mapping processes with BPMN diagrams, helping teams agree on goals, and using data to guide product decisions. | People who want to connect business needs with the teams building solutions. |
+| <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Marketing%20%26%20Content"><img src="https://img.shields.io/badge/Marketing%20%26%20Content-176B50?style=for-the-badge&labelColor=073F38" alt="Marketing &amp; Content" /></a><br/><sub><i>📣 The Bonfire Square</i></sub> | Digital marketing, planning content, copywriting, understanding audiences through data, and telling a brand's story.   | People who enjoy creating content and helping communities, products, and brands grow.                  |
 
 <p align="right"><a href="#top">⬆ Back to the edge of the forest</a></p>
 
@@ -158,22 +166,22 @@ Thirteen learning tracks, organized by region, so you can find your starting poi
 
 <a id="pack"></a>
 
-## 🎒 Your Pack for the Journey
+## 🎒 Your Pack: What's Inside Each Roadmap
 
-Every trail comes with a pack. Roadmaps may include the following to support your learning:
+Think of each roadmap as a pack for your journey. Depending on the track, it may include:
 
 | Component                    | What It Covers                                                                  |
 | ---------------------------- | ------------------------------------------------------------------------------- |
 | 🧭 **Track Overview**        | An introduction to the field, its main areas, and the skills you'll develop.    |
-| 🪜 **Learning Topics**       | Core concepts and skills organized into a structured learning sequence.         |
-| 🥾 **Prerequisites**         | Recommended background knowledge or skills to help you get started.             |
-| 📚 **Learning Resources**    | Curated courses, tutorials, documentation, books, and other learning materials. |
+| 🪜 **Learning Topics**       | Key ideas and skills arranged in a clear learning order.         |
+| 🥾 **Prerequisites**         | What you should know before you start.             |
+| 📚 **Learning Resources**    | Selected courses, tutorials, documentation, books, and other learning materials. |
 | 🧰 **Tools & Technologies**  | Common tools, technologies, and frameworks used in the field.                   |
-| 🔨 **Practical Exercises**   | Hands-on tasks to reinforce concepts and strengthen your skills.                |
+| 🔨 **Practical Exercises**   | Hands-on tasks to practice what you learn.                |
 | 🏗️ **Project Ideas**         | Practical projects that help you apply what you have learned.                   |
 | 🔭 **Further Learning**      | Additional concepts and advanced topics to explore as you progress.             |
 
-_The content and structure may vary across tracks to reflect the scope and learning needs of each field._
+_Each track may include different sections and resources to suit the field._
 
 <p align="center"><img src="./assets/forest-divider.svg" width="100%" alt="" /></p>
 
@@ -181,7 +189,7 @@ _The content and structure may vary across tracks to reflect the scope and learn
 
 ## 🧭 Your Journey
 
-Every journey is different. These steps are a flexible direction to help you build knowledge, gain practical experience, and grow in your chosen field, from the first seed to a tree of your own.
+Every journey is different. Use these steps as a flexible guide: start with the basics, practice, build projects, and keep growing at your own pace.
 
 <p align="center">
   <img src="./assets/forest-journey.svg" alt="The path: 1 Choose your track, 2 Learn the fundamentals, 3 Practice and apply, 4 Build real projects, 5 Review and improve, 6 Keep growing" width="100%" />
@@ -194,29 +202,28 @@ Every journey is different. These steps are a flexible direction to help you bui
 
 <a id="laws"></a>
 
-## 📜 The Laws of the Forest
+## 📜 The Laws of the Forest: Learning Principles
 
-We believe meaningful learning goes beyond completing courses. It's about understanding concepts, thinking independently, and applying knowledge through consistent practice.
+Learning is more than finishing courses. Understand the ideas, think for yourself, and put what you learn into practice.
 
 | Principle      | What It Means                                                    | In the Forest                                    |
 | :------------- | :--------------------------------------------------------------- | :----------------------------------------------- |
 | **Understand** | Focus on why concepts work, not just how to use them.            | 🌱 *Deep roots hold the tallest trees.*          |
 | **Practice**   | Strengthen your skills through hands-on experience.              | 💧 *Water a little, every day.*                  |
-| **Explore**    | Stay curious and develop independent problem-solving abilities.  | 🧭 *Wander off the path, but carry a compass.*   |
+| **Explore**    | Stay curious and learn to solve problems on your own.  | 🧭 *Wander off the path, but carry a compass.*   |
 | **Build**      | Turn your knowledge into practical projects.                     | 🏕️ *A shelter beats a daydream.*                 |
-| **Improve**    | Learn from feedback and mistakes, and keep refining your skills. | ✂️ *Prune what hurts, keep what grows.*          |
+| **Improve**    | Learn from feedback and mistakes, and keep improving your skills. | ✂️ *Prune what hurts, keep what grows.*          |
 
 <p align="center"><img src="./assets/forest-divider.svg" width="100%" alt="" /></p>
 
 <a id="contributing"></a>
 
-## 🌱 Plant a Tree
+## 🌱 Plant a Tree: Contribute
 
-Learning is better when we build together. A forest is only a forest because many hands planted it, and we welcome contributions from CIS Team members and the wider community.
+Learning is better when we build together. Help this forest grow by sharing what you know. Contributions are welcome from CIS Team members and anyone who wants to help.
 
 ```text
-   🌰  ─────▶  🌱  ─────▶  🌿  ─────▶  🌳
-  an idea    an issue     a PR      merged!
+🌰 An idea → 🌱 An issue → 🌿 A pull request → 🌳 Merged!
 ```
 
 You can contribute by:
@@ -227,7 +234,7 @@ You can contribute by:
 - 🏗️ Adding practical exercises and project ideas.
 - 🔭 Suggesting new topics and improvements.
 
-#### How to Contribute
+### How to Contribute
 
 1. 🍴 Fork the repository.
 2. 🌿 Create a branch for your changes.
@@ -240,7 +247,7 @@ You can contribute by:
 <summary>🍄 <em>A secret from the forest</em></summary>
 <br/>
 
-The best trail in this forest is the one you help clear for the next traveler. If you found something that confused you, fix it here, and you will have made the woods a little kinder for someone you will never meet.
+Help clear the path for the next learner. If something confused you, suggest a fix or report it so others can learn more easily.
 
 </details>
 
@@ -250,7 +257,7 @@ The best trail in this forest is the one you help clear for the next traveler. I
 
 ## 🍂 Old Growth: Previous Season
 
-Every forest has ground that was walked before. Looking for the previous edition?
+Looking for last season's roadmaps? Follow an earlier trail:
 
 **[Explore CIS Team Roadmaps 2025–2026 →](https://github.com/CIS-Team/2025-2026-Roadmaps)**
 
@@ -258,7 +265,7 @@ Every forest has ground that was walked before. Looking for the previous edition
 
 <a id="campfire"></a>
 
-## 🔥 Around the Campfire
+## 🔥 Around the Campfire: Connect with Us
 
 Pull up a log and stay a while. Follow our updates and meet the other travelers:
 
