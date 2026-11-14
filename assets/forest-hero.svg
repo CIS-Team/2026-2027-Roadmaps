@@ -1,0 +1,175 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-labelledby="t d" xmlns:c2pa="http://c2pa.org/manifest">
+  <title id="t">CIS Team Roadmaps 2026–2027</title>
+  <desc id="d">An animated dawn over a pine forest. Fireflies drift between the trees while mist rolls past.</desc>
+  <style>
+    text{font-family:Georgia,'Times New Roman',serif}
+    @keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+    .a1{animation:rise 1.6s ease-out .2s both}
+    .a2{animation:rise 1.6s ease-out .7s both}
+    .a3{animation:rise 1.6s ease-out 1.2s both}
+    .a4{animation:rise 1.6s ease-out 1.7s both}
+  </style>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#03211c"/>
+      <stop offset=".4" stop-color="#0a4a3a"/>
+      <stop offset=".72" stop-color="#2f8a63"/>
+      <stop offset="1" stop-color="#f3d28b"/>
+    </linearGradient>
+    <radialGradient id="sun">
+      <stop offset="0" stop-color="#fff3c4"/>
+      <stop offset=".35" stop-color="#ffd878" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#ffd878" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="flyg">
+      <stop offset="0" stop-color="#fff3c4"/>
+      <stop offset=".3" stop-color="#ffe08a" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#ffe08a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="mist" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d9f5e6" stop-opacity="0"/>
+      <stop offset="1" stop-color="#d9f5e6" stop-opacity=".35"/>
+    </linearGradient>
+    <g id="pine">
+      <polygon points="0,-100 -20,-62 20,-62"/>
+      <polygon points="0,-78 -28,-32 28,-32"/>
+      <polygon points="0,-52 -36,4 36,4"/>
+      <rect x="-4" y="4" width="8" height="12"/>
+    </g>
+    <circle id="fly" r="7" fill="url(#flyg)"/>
+  </defs>
+
+  <rect width="1200" height="440" fill="url(#sky)"/>
+
+  <!-- stars -->
+  <g fill="#fff7d6">
+    <circle cx="90" cy="40" r="1.6"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="210" cy="90" r="1.2"><animate attributeName="opacity" values="1;.2;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="330" cy="35" r="1.8"><animate attributeName="opacity" values=".3;1;.3" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="450" cy="70" r="1.2"><animate attributeName="opacity" values="1;.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="38" r="1.5"><animate attributeName="opacity" values=".2;1;.2" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="880" cy="80" r="1.8"><animate attributeName="opacity" values="1;.3;1" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="45" r="1.3"><animate attributeName="opacity" values=".3;1;.3" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1110" cy="100" r="1.6"><animate attributeName="opacity" values="1;.2;1" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="150" cy="150" r="1.2"><animate attributeName="opacity" values=".2;1;.2" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1060" cy="170" r="1.2"><animate attributeName="opacity" values="1;.2;1" dur="3.1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- slow rotating sun rays -->
+  <g opacity=".09" fill="#fff3c4">
+    <animateTransform attributeName="transform" type="rotate" from="0 600 332" to="360 600 332" dur="120s" repeatCount="indefinite"/>
+    <polygon points="600,332 574,-400 626,-400"/>
+    <polygon points="600,332 574,-400 626,-400" transform="rotate(45 600 332)"/>
+    <polygon points="600,332 574,-400 626,-400" transform="rotate(90 600 332)"/>
+    <polygon points="600,332 574,-400 626,-400" transform="rotate(135 600 332)"/>
+    <polygon points="600,332 574,-400 626,-400" transform="rotate(180 600 332)"/>
+    <polygon points="600,332 574,-400 626,-400" transform="rotate(225 600 332)"/>
+    <polygon points="600,332 574,-400 626,-400" transform="rotate(270 600 332)"/>
+    <polygon points="600,332 574,-400 626,-400" transform="rotate(315 600 332)"/>
+  </g>
+
+  <!-- rising sun -->
+  <circle cx="600" cy="332" r="200" fill="url(#sun)">
+    <animate attributeName="r" values="185;215;185" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="332" r="36" fill="#fff3c4"/>
+
+  <!-- far mountains -->
+  <path d="M0,330 L110,272 L230,322 L350,258 L470,330 L600,352 L730,330 L850,262 L980,322 L1090,276 L1200,326 L1200,440 L0,440Z" fill="#1b7d5c" opacity=".6"/>
+  <path d="M0,362 L100,322 L220,358 L340,318 L470,364 L600,376 L730,364 L860,320 L980,360 L1100,326 L1200,352 L1200,440 L0,440Z" fill="#0f5c47" opacity=".9"/>
+
+  <!-- tree layer A (far) -->
+  <g transform="translate(0 372)"><g>
+    <animateTransform attributeName="transform" type="skewX" values="-1;1;-1" dur="9s" repeatCount="indefinite"/>
+    <g transform="translate(0 -372)" fill="#1a7a5a" opacity=".8">
+      <use href="#pine" transform="translate(30 372) scale(.8)"/>
+      <use href="#pine" transform="translate(105 372) scale(.65)"/>
+      <use href="#pine" transform="translate(170 372) scale(.75)"/>
+      <use href="#pine" transform="translate(245 372) scale(.6)"/>
+      <use href="#pine" transform="translate(320 372) scale(.8)"/>
+      <use href="#pine" transform="translate(395 372) scale(.65)"/>
+      <use href="#pine" transform="translate(470 372) scale(.7)"/>
+      <use href="#pine" transform="translate(545 372) scale(.6)"/>
+      <use href="#pine" transform="translate(650 372) scale(.65)"/>
+      <use href="#pine" transform="translate(725 372) scale(.78)"/>
+      <use href="#pine" transform="translate(800 372) scale(.6)"/>
+      <use href="#pine" transform="translate(880 372) scale(.75)"/>
+      <use href="#pine" transform="translate(955 372) scale(.65)"/>
+      <use href="#pine" transform="translate(1030 372) scale(.8)"/>
+      <use href="#pine" transform="translate(1105 372) scale(.62)"/>
+      <use href="#pine" transform="translate(1170 372) scale(.75)"/>
+    </g>
+  </g></g>
+
+  <!-- mist 1 -->
+  <rect x="-200" y="340" width="1600" height="60" fill="url(#mist)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-120 0;0 0" dur="16s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- tree layer B (mid) -->
+  <g transform="translate(0 410)"><g>
+    <animateTransform attributeName="transform" type="skewX" values="1.2;-1.2;1.2" dur="8s" repeatCount="indefinite"/>
+    <g transform="translate(0 -410)" fill="#0d523f">
+      <use href="#pine" transform="translate(60 410) scale(1)"/>
+      <use href="#pine" transform="translate(140 410) scale(.85)"/>
+      <use href="#pine" transform="translate(225 410) scale(1.05)"/>
+      <use href="#pine" transform="translate(300 410) scale(.8)"/>
+      <use href="#pine" transform="translate(385 410) scale(.95)"/>
+      <use href="#pine" transform="translate(460 410) scale(.8)"/>
+      <use href="#pine" transform="translate(700 410) scale(.85)"/>
+      <use href="#pine" transform="translate(775 410) scale(1)"/>
+      <use href="#pine" transform="translate(860 410) scale(.8)"/>
+      <use href="#pine" transform="translate(945 410) scale(1.05)"/>
+      <use href="#pine" transform="translate(1030 410) scale(.85)"/>
+      <use href="#pine" transform="translate(1120 410) scale(1)"/>
+    </g>
+  </g></g>
+
+  <!-- mist 2 -->
+  <rect x="-300" y="392" width="1800" height="60" fill="url(#mist)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;140 0;0 0" dur="19s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- tree layer C (front, framing) -->
+  <g transform="translate(0 452)"><g>
+    <animateTransform attributeName="transform" type="skewX" values="-1.5;1.5;-1.5" dur="10s" repeatCount="indefinite"/>
+    <g transform="translate(0 -452)" fill="#04251f">
+      <use href="#pine" transform="translate(25 452) scale(2.4)"/>
+      <use href="#pine" transform="translate(120 452) scale(2)"/>
+      <use href="#pine" transform="translate(210 452) scale(1.6)"/>
+      <use href="#pine" transform="translate(295 452) scale(1.25)"/>
+      <use href="#pine" transform="translate(420 452) scale(.8)"/>
+      <use href="#pine" transform="translate(500 452) scale(.65)"/>
+      <use href="#pine" transform="translate(700 452) scale(.65)"/>
+      <use href="#pine" transform="translate(780 452) scale(.8)"/>
+      <use href="#pine" transform="translate(905 452) scale(1.25)"/>
+      <use href="#pine" transform="translate(990 452) scale(1.6)"/>
+      <use href="#pine" transform="translate(1080 452) scale(2)"/>
+      <use href="#pine" transform="translate(1175 452) scale(2.4)"/>
+    </g>
+  </g></g>
+
+  <!-- fireflies -->
+  <g transform="translate(180 330)"><use href="#fly"><animateMotion dur="9s" begin="-2s" repeatCount="indefinite" path="M0,0 C18,-26 46,-22 56,6 S28,36 0,0"/><animate attributeName="opacity" values=".1;1;.2;1;.1" dur="4s" begin="-1s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(300 300)"><use href="#fly"><animateMotion dur="11s" begin="-5s" repeatCount="indefinite" path="M0,0 C-22,-18 -40,8 -20,26 S20,20 0,0"/><animate attributeName="opacity" values="1;.1;1;.2;1" dur="5s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(420 350)"><use href="#fly"><animateMotion dur="10s" begin="-3s" repeatCount="indefinite" path="M0,0 C30,-10 44,-34 16,-40 S-26,-12 0,0"/><animate attributeName="opacity" values=".1;1;.1" dur="3.6s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(520 320)"><use href="#fly"><animateMotion dur="12s" begin="-7s" repeatCount="indefinite" path="M0,0 C18,-26 46,-22 56,6 S28,36 0,0"/><animate attributeName="opacity" values="1;.2;1" dur="4.4s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(680 340)"><use href="#fly"><animateMotion dur="9.5s" begin="-4s" repeatCount="indefinite" path="M0,0 C-22,-18 -40,8 -20,26 S20,20 0,0"/><animate attributeName="opacity" values=".2;1;.1;1;.2" dur="4.8s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(780 310)"><use href="#fly"><animateMotion dur="13s" begin="-6s" repeatCount="indefinite" path="M0,0 C30,-10 44,-34 16,-40 S-26,-12 0,0"/><animate attributeName="opacity" values="1;.1;1" dur="3.9s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(900 350)"><use href="#fly"><animateMotion dur="10s" begin="-1s" repeatCount="indefinite" path="M0,0 C18,-26 46,-22 56,6 S28,36 0,0"/><animate attributeName="opacity" values=".1;1;.3;1;.1" dur="4.2s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(1010 320)"><use href="#fly"><animateMotion dur="12s" begin="-8s" repeatCount="indefinite" path="M0,0 C-22,-18 -40,8 -20,26 S20,20 0,0"/><animate attributeName="opacity" values="1;.2;1" dur="5.2s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(240 395)"><use href="#fly"><animateMotion dur="8s" begin="-2s" repeatCount="indefinite" path="M0,0 C30,-10 44,-34 16,-40 S-26,-12 0,0"/><animate attributeName="opacity" values=".2;1;.2" dur="3.3s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(560 392)"><use href="#fly"><animateMotion dur="11s" begin="-9s" repeatCount="indefinite" path="M0,0 C18,-26 46,-22 56,6 S28,36 0,0"/><animate attributeName="opacity" values="1;.1;1;.1;1" dur="4.6s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(860 396)"><use href="#fly"><animateMotion dur="9s" begin="-5s" repeatCount="indefinite" path="M0,0 C-22,-18 -40,8 -20,26 S20,20 0,0"/><animate attributeName="opacity" values=".1;1;.1" dur="3.7s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(1100 372)"><use href="#fly"><animateMotion dur="10.5s" begin="-3s" repeatCount="indefinite" path="M0,0 C30,-10 44,-34 16,-40 S-26,-12 0,0"/><animate attributeName="opacity" values="1;.2;1" dur="4.1s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(115 285)"><use href="#fly"><animateMotion dur="12s" begin="-10s" repeatCount="indefinite" path="M0,0 C18,-26 46,-22 56,6 S28,36 0,0"/><animate attributeName="opacity" values=".2;1;.2" dur="5s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(1090 272)"><use href="#fly"><animateMotion dur="9s" begin="-6s" repeatCount="indefinite" path="M0,0 C-22,-18 -40,8 -20,26 S20,20 0,0"/><animate attributeName="opacity" values="1;.1;1" dur="3.5s" repeatCount="indefinite"/></use></g>
+
+  <!-- title -->
+  <g text-anchor="middle">
+    <text class="a1" x="600" y="112" font-size="19" letter-spacing="9" fill="#bfe8cf" opacity=".9">THE FOREST OF SKILLS</text>
+    <text class="a2" x="600" y="178" font-size="66" font-weight="700" letter-spacing="4" fill="#fff4d1">CIS Team Roadmaps</text>
+    <text class="a3" x="600" y="222" font-size="26" letter-spacing="10" fill="#f3d28b">2026 — 2027</text>
+    <text class="a4" x="600" y="262" font-size="19" font-style="italic" fill="#d9f5e6">Explore  •  Learn  •  Build  •  Grow</text>
+  </g>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4YjZmNWQzMC01ODMxLTQ1N2UtOWM4Yi0wMzFjZmEwNWUyMmEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaIshHk8NcZKzw7TNbo4hl/sAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1YThjYzI3ZS1iMTM5LTRiZWItOGJhMC00YmE0ZTdjNDgwYzFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNorT2qoh1aZKPSKV/cPRTOCwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggjNFYTk8H0xnD8Qrg7SmJP4MOHiklj63FKy1ut8KNikykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHUuEnoufhvWDu2tZ/CQWxsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIO1RGVrdWyKoi0a7cd1meVc8F6afZkNz1IzxmA0qKX2oZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GTKdZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjhiNmY1ZDMwLTU4MzEtNDU3ZS05YzhiLTAzMWNmYTA1ZTIyYS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjc4YTUxNDQxLTc3NTItNDZkMC04MGZhLTUwZjk1YmRiZWVjM3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCM0VhOTwfTGcPxCuDtKYk/gw4eKSWPrcUrLW63wo2KTKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggBcqA7sqaTHBDfyykHtkhA7qRTXBCjenQJduOIsOnhOeiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggcXwNg8n6DLOFiYIf6dlbL2fPiWCyDbOyHVuXzGoYw6J0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQN3c+R0tH1gFsavP8mrLrBzLugOTwOX7Ykd+Fbma7ssMT1eXokSByiJJvtQRVHe4oE/PdiO52QQ0F5B8EkYgm6w=</c2pa:manifest></metadata></svg>
