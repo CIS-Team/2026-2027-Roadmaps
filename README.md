@@ -23,16 +23,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/stargazers"><img src="https://img.shields.io/badge/Stars-176B50?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub Stars" height="20" /></a>
-  <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/forks"><img src="https://img.shields.io/badge/Forks-176B50?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub Forks" height="20" /></a>
-  <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/issues"><img src="https://img.shields.io/badge/Issues-176B50?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub Issues" height="20" /></a>
-  <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/commits/main/"><img src="https://img.shields.io/badge/Last%20Update-176B50?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Last Commit" height="20" /></a>
+  <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/stargazers"><img src="https://img.shields.io/badge/Stars-176B50?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Stars" height="28" /></a>
+  <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/forks"><img src="https://img.shields.io/badge/Forks-176B50?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Forks" height="28" /></a>
+  <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/issues"><img src="https://img.shields.io/badge/Issues-176B50?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Issues" height="28" /></a>
+  <a href="https://github.com/CIS-Team/2026-2027-Roadmaps/commits/main/"><img src="https://img.shields.io/badge/Last%20Update-176B50?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Last Commit" height="28" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tracks-13-2563EB?style=flat-square" alt="13 Tracks">
-  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-16A34A?style=flat-square" alt="Learning Levels">
-  <img src="https://img.shields.io/badge/Contributions-Welcome-8957E5?style=flat-square" alt="Contributions Welcome">
+  <a href="#explore-our-learning-paths"><img src="https://img.shields.io/badge/13%20Tracks-176B50?style=for-the-badge" alt="13 Tracks" height="28" /></a>
+  <a href="#your-learning-journey"><img src="https://img.shields.io/badge/Beginner%20to%20Advanced-176B50?style=for-the-badge" alt="Learning Levels" height="28" /></a>
+  <a href="#contributing"><img src="https://img.shields.io/badge/Contributions%20Welcome-176B50?style=for-the-badge" alt="Contributions Welcome" height="28" /></a>
 </p>
 
 <p align="center"><img src="./assets/forest-divider.svg" width="100%" alt="" /></p>
