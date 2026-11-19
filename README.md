@@ -110,7 +110,7 @@ Explore our **13 learning tracks**, organized by domain to help you find your st
 | [**Marketing & Content**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Marketing%20%26%20Content) | Digital growth strategy, content architecture, copywriting, audience analytics, and brand storytelling.   | Communicators focused on growing communities, products, and brand reach.                  |
 
 <p align="right">
-  <a href="#roadmaps-top">⬆ Back to Top</a>
+  <a href="#roadmaps-top">⬆ Back to learning paths</a>
 </p>
 
 <p align="center"><img src="./assets/forest-divider.svg" width="100%" alt="" /></p>
@@ -231,5 +231,5 @@ Stay connected and follow our updates:
 </p>
 
 <p align="center">
-  <a href="#top">Back to Top</a>
+  <a href="#top">⬆ Back to top</a>
 </p>
