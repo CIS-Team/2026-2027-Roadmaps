@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800" role="img" aria-labelledby="t d" xmlns:c2pa="http://c2pa.org/manifest">
+  <title id="t">The Map of the Forest</title>
+  <desc id="d">An illustrated map. From one trailhead, five regions rise: Software Development, Computer Science and AI, Infrastructure and Cybersecurity, Design and Creative Media, and Business and Marketing. Thirteen trails in total.</desc>
+  <style>
+    .n{font:600 15px system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;fill:#fff4d1;text-anchor:middle}
+    .s{font:italic 12px Georgia,'Times New Roman',serif;fill:#a8d9bf;text-anchor:middle}
+    .h{stroke:#06251f;stroke-width:6px;stroke-linejoin:round;fill:#06251f}
+    .ch{font:600 11px system-ui,sans-serif;letter-spacing:3px;text-anchor:middle}
+    .rn{font:700 15px Georgia,'Times New Roman',serif;fill:#fff4d1;text-anchor:middle}
+    .rs{font:11.5px system-ui,sans-serif;fill:#a8cdbb;text-anchor:middle}
+    .e{font-size:22px;text-anchor:middle}
+    @keyframes pulse{from{transform:scale(1);opacity:.6}to{transform:scale(1.7);opacity:0}}
+    .pl{animation:pulse 3.2s ease-out infinite;transform-box:fill-box;transform-origin:center}
+    @keyframes fadein{from{opacity:0}to{opacity:1}}
+    .fi{animation:fadein 2s ease-out both}
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#04211c"/>
+      <stop offset="1" stop-color="#0b3a2e"/>
+    </linearGradient>
+    <radialGradient id="g">
+      <stop offset="0" stop-color="#fff3c4"/>
+      <stop offset=".3" stop-color="#ffe08a" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#ffe08a" stop-opacity="0"/>
+    </radialGradient>
+    <circle id="fly" r="7" fill="url(#g)"/>
+    <g id="pine">
+      <polygon points="0,-100 -20,-62 20,-62"/>
+      <polygon points="0,-78 -28,-32 28,-32"/>
+      <polygon points="0,-52 -36,4 36,4"/>
+      <rect x="-4" y="4" width="8" height="12"/>
+    </g>
+  </defs>
+
+  <rect width="1200" height="800" rx="24" fill="url(#bg)"/>
+
+  <!-- moon + stars -->
+  <circle cx="1110" cy="64" r="34" fill="url(#g)"/>
+  <circle cx="1110" cy="64" r="15" fill="#fff4d1"/>
+  <g fill="#fff7d6">
+    <circle cx="80" cy="50" r="1.5"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="190" cy="82" r="1.2"><animate attributeName="opacity" values="1;.2;1" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="40" r="1.6"><animate attributeName="opacity" values=".3;1;.3" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="900" cy="46" r="1.4"><animate attributeName="opacity" values="1;.3;1" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1010" cy="90" r="1.2"><animate attributeName="opacity" values=".3;1;.3" dur="4.2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- bottom pines -->
+  <g fill="#0a3d31" opacity=".9">
+    <use href="#pine" transform="translate(30 800) scale(.9)"/>
+    <use href="#pine" transform="translate(95 800) scale(.75)"/>
+    <use href="#pine" transform="translate(160 800) scale(.9)"/>
+    <use href="#pine" transform="translate(250 800) scale(.55)"/>
+    <use href="#pine" transform="translate(335 800) scale(.6)"/>
+    <use href="#pine" transform="translate(440 800) scale(.5)"/>
+    <use href="#pine" transform="translate(760 800) scale(.5)"/>
+    <use href="#pine" transform="translate(865 800) scale(.6)"/>
+    <use href="#pine" transform="translate(950 800) scale(.55)"/>
+    <use href="#pine" transform="translate(1040 800) scale(.9)"/>
+    <use href="#pine" transform="translate(1105 800) scale(.75)"/>
+    <use href="#pine" transform="translate(1170 800) scale(.9)"/>
+  </g>
+
+  <!-- title -->
+  <text x="600" y="58" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="30" letter-spacing="8" fill="#fff4d1">THE MAP OF THE FOREST</text>
+  <text x="600" y="86" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="16" font-style="italic" fill="#9fd8bb">Thirteen trails. Five regions. One way in.</text>
+
+  <!-- trails: faint underlay -->
+  <g fill="none" stroke-linecap="round" opacity=".14" stroke-width="10">
+    <path d="M600,722 C600,665 120,675 120,610 L120,178" stroke="#7ddf9c"/>
+    <path d="M600,722 C600,665 360,675 360,610 L360,178" stroke="#e9c46a"/>
+    <path d="M600,722 L600,178" stroke="#5ec8e5"/>
+    <path d="M600,722 C600,665 840,675 840,610 L840,178" stroke="#f4a0c0"/>
+    <path d="M600,722 C600,665 1080,675 1080,610 L1080,178" stroke="#f4a261"/>
+  </g>
+  <!-- trails: flowing dashes -->
+  <g fill="none" stroke-linecap="round" stroke-width="3" stroke-dasharray="7 9">
+    <path d="M600,722 C600,665 120,675 120,610 L120,178" stroke="#7ddf9c"><animate attributeName="stroke-dashoffset" from="160" to="0" dur="6s" repeatCount="indefinite"/></path>
+    <path d="M600,722 C600,665 360,675 360,610 L360,178" stroke="#e9c46a"><animate attributeName="stroke-dashoffset" from="160" to="0" dur="6s" repeatCount="indefinite"/></path>
+    <path d="M600,722 L600,178" stroke="#5ec8e5"><animate attributeName="stroke-dashoffset" from="160" to="0" dur="6s" repeatCount="indefinite"/></path>
+    <path d="M600,722 C600,665 840,675 840,610 L840,178" stroke="#f4a0c0"><animate attributeName="stroke-dashoffset" from="160" to="0" dur="6s" repeatCount="indefinite"/></path>
+    <path d="M600,722 C600,665 1080,675 1080,610 L1080,178" stroke="#f4a261"><animate attributeName="stroke-dashoffset" from="160" to="0" dur="6s" repeatCount="indefinite"/></path>
+  </g>
+
+  <!-- REGION I -->
+  <rect x="12" y="112" width="216" height="64" rx="14" fill="#7ddf9c" fill-opacity=".16" stroke="#7ddf9c" stroke-width="1.5"/>
+  <text class="ch" x="120" y="131" fill="#7ddf9c">CHAPTER I</text>
+  <text class="rn" x="120" y="153">The Builders’ Canopy</text>
+  <text class="rs" x="120" y="169">Software Development</text>
+
+  <g transform="translate(120 550)"><circle class="pl" r="25" fill="none" stroke="#7ddf9c" stroke-width="2"/><circle r="25" fill="#06251f" stroke="#7ddf9c" stroke-width="3"/><text class="e" y="8">🖥️</text><text class="n h" y="47">Frontend</text><text class="n" y="47">Frontend</text><text class="s h" y="64">The Sunlit Canopy</text><text class="s" y="64">The Sunlit Canopy</text></g>
+  <g transform="translate(120 450)"><circle class="pl" r="25" fill="none" stroke="#7ddf9c" stroke-width="2" style="animation-delay:-.8s"/><circle r="25" fill="#06251f" stroke="#7ddf9c" stroke-width="3"/><text class="e" y="8">⚙️</text><text class="n h" y="47">Backend</text><text class="n" y="47">Backend</text><text class="s h" y="64">The Deep Roots</text><text class="s" y="64">The Deep Roots</text></g>
+  <g transform="translate(120 350)"><circle class="pl" r="25" fill="none" stroke="#7ddf9c" stroke-width="2" style="animation-delay:-1.6s"/><circle r="25" fill="#06251f" stroke="#7ddf9c" stroke-width="3"/><text class="e" y="8">📱</text><text class="n h" y="47">Flutter</text><text class="n" y="47">Flutter</text><text class="s h" y="64">The Windborne Seeds</text><text class="s" y="64">The Windborne Seeds</text></g>
+  <g transform="translate(120 250)"><circle class="pl" r="25" fill="none" stroke="#7ddf9c" stroke-width="2" style="animation-delay:-2.4s"/><circle r="25" fill="#06251f" stroke="#7ddf9c" stroke-width="3"/><text class="e" y="8">🎮</text><text class="n h" y="47">Game Dev</text><text class="n" y="47">Game Dev</text><text class="s h" y="64">The Firefly Hollow</text><text class="s" y="64">The Firefly Hollow</text></g>
+
+  <!-- REGION II -->
+  <rect x="252" y="112" width="216" height="64" rx="14" fill="#e9c46a" fill-opacity=".16" stroke="#e9c46a" stroke-width="1.5"/>
+  <text class="ch" x="360" y="131" fill="#e9c46a">CHAPTER II</text>
+  <text class="rn" x="360" y="153">The Elder Grove</text>
+  <text class="rs" x="360" y="169">Computer Science &amp; AI</text>
+
+  <g transform="translate(360 550)"><circle class="pl" r="25" fill="none" stroke="#e9c46a" stroke-width="2" style="animation-delay:-.4s"/><circle r="25" fill="#06251f" stroke="#e9c46a" stroke-width="3"/><text class="e" y="8">🌳</text><text class="n h" y="47">Computer Science</text><text class="n" y="47">Computer Science</text><text class="s h" y="64">The Elder Oak</text><text class="s" y="64">The Elder Oak</text></g>
+  <g transform="translate(360 450)"><circle class="pl" r="25" fill="none" stroke="#e9c46a" stroke-width="2" style="animation-delay:-1.2s"/><circle r="25" fill="#06251f" stroke="#e9c46a" stroke-width="3"/><text class="e" y="8">🍄</text><text class="n h" y="47">AI &amp; Data Science</text><text class="n" y="47">AI &amp; Data Science</text><text class="s h" y="64">The Mycelium Network</text><text class="s" y="64">The Mycelium Network</text></g>
+
+  <!-- REGION III -->
+  <rect x="492" y="112" width="216" height="64" rx="14" fill="#5ec8e5" fill-opacity=".16" stroke="#5ec8e5" stroke-width="1.5"/>
+  <text class="ch" x="600" y="131" fill="#5ec8e5">CHAPTER III</text>
+  <text class="rn" x="600" y="153">The Riverwatch</text>
+  <text class="rs" x="600" y="169">Infrastructure &amp; Cybersecurity</text>
+
+  <g transform="translate(600 550)"><circle class="pl" r="25" fill="none" stroke="#5ec8e5" stroke-width="2" style="animation-delay:-2s"/><circle r="25" fill="#06251f" stroke="#5ec8e5" stroke-width="3"/><text class="e" y="8">☁️</text><text class="n h" y="47">Cloud Computing</text><text class="n" y="47">Cloud Computing</text><text class="s h" y="64">The Mist Above the Trees</text><text class="s" y="64">The Mist Above the Trees</text></g>
+  <g transform="translate(600 450)"><circle class="pl" r="25" fill="none" stroke="#5ec8e5" stroke-width="2" style="animation-delay:-2.8s"/><circle r="25" fill="#06251f" stroke="#5ec8e5" stroke-width="3"/><text class="e" y="8">🛡️</text><text class="n h" y="47">Cybersecurity</text><text class="n" y="47">Cybersecurity</text><text class="s h" y="64">The Thorn Gate</text><text class="s" y="64">The Thorn Gate</text></g>
+
+  <!-- REGION IV -->
+  <rect x="732" y="112" width="216" height="64" rx="14" fill="#f4a0c0" fill-opacity=".16" stroke="#f4a0c0" stroke-width="1.5"/>
+  <text class="ch" x="840" y="131" fill="#f4a0c0">CHAPTER IV</text>
+  <text class="rn" x="840" y="153">The Meadow of Colors</text>
+  <text class="rs" x="840" y="169">Design &amp; Creative Media</text>
+
+  <g transform="translate(840 550)"><circle class="pl" r="25" fill="none" stroke="#f4a0c0" stroke-width="2" style="animation-delay:-.6s"/><circle r="25" fill="#06251f" stroke="#f4a0c0" stroke-width="3"/><text class="e" y="8">🧭</text><text class="n h" y="47">UI / UX Design</text><text class="n" y="47">UI / UX Design</text><text class="s h" y="64">The Trailmakers</text><text class="s" y="64">The Trailmakers</text></g>
+  <g transform="translate(840 450)"><circle class="pl" r="25" fill="none" stroke="#f4a0c0" stroke-width="2" style="animation-delay:-1.4s"/><circle r="25" fill="#06251f" stroke="#f4a0c0" stroke-width="3"/><text class="e" y="8">🎨</text><text class="n h" y="47">Graphic Design</text><text class="n" y="47">Graphic Design</text><text class="s h" y="64">The Wildflower Meadow</text><text class="s" y="64">The Wildflower Meadow</text></g>
+  <g transform="translate(840 350)"><circle class="pl" r="25" fill="none" stroke="#f4a0c0" stroke-width="2" style="animation-delay:-2.2s"/><circle r="25" fill="#06251f" stroke="#f4a0c0" stroke-width="3"/><text class="e" y="8">🎬</text><text class="n h" y="47">Video Editing</text><text class="n" y="47">Video Editing</text><text class="s h" y="64">The Lantern River</text><text class="s" y="64">The Lantern River</text></g>
+
+  <!-- REGION V -->
+  <rect x="972" y="112" width="216" height="64" rx="14" fill="#f4a261" fill-opacity=".16" stroke="#f4a261" stroke-width="1.5"/>
+  <text class="ch" x="1080" y="131" fill="#f4a261">CHAPTER V</text>
+  <text class="rn" x="1080" y="153">The Crossroads Village</text>
+  <text class="rs" x="1080" y="169">Business &amp; Marketing</text>
+
+  <g transform="translate(1080 550)"><circle class="pl" r="25" fill="none" stroke="#f4a261" stroke-width="2" style="animation-delay:-1s"/><circle r="25" fill="#06251f" stroke="#f4a261" stroke-width="3"/><text class="e" y="8">📊</text><text class="n h" y="47">Business Analysis</text><text class="n" y="47">Business Analysis</text><text class="s h" y="64">The Cartographer’s Hut</text><text class="s" y="64">The Cartographer’s Hut</text></g>
+  <g transform="translate(1080 450)"><circle class="pl" r="25" fill="none" stroke="#f4a261" stroke-width="2" style="animation-delay:-1.9s"/><circle r="25" fill="#06251f" stroke="#f4a261" stroke-width="3"/><text class="e" y="8">📣</text><text class="n h" y="47">Marketing &amp; Content</text><text class="n" y="47">Marketing &amp; Content</text><text class="s h" y="64">The Bonfire Square</text><text class="s" y="64">The Bonfire Square</text></g>
+
+  <!-- trailhead gate -->
+  <path d="M568,742 L568,714 Q600,684 632,714 L632,742" fill="none" stroke="#b98b5e" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="600" cy="722" r="12" fill="url(#g)"><animate attributeName="r" values="9;16;9" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="600" cy="722" r="4" fill="#fff3c4"/>
+  <text x="600" y="766" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="14" letter-spacing="5" fill="#f3d28b">THE TRAILHEAD</text>
+  <text x="600" y="784" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="12" font-style="italic" fill="#9fd8bb">you are here</text>
+
+  <!-- fireflies -->
+  <g transform="translate(250 330)"><use href="#fly"><animateMotion dur="10s" repeatCount="indefinite" path="M0,0 C18,-26 46,-22 56,6 S28,36 0,0"/><animate attributeName="opacity" values=".1;1;.1" dur="4s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(480 280)"><use href="#fly"><animateMotion dur="12s" begin="-4s" repeatCount="indefinite" path="M0,0 C-22,-18 -40,8 -20,26 S20,20 0,0"/><animate attributeName="opacity" values="1;.1;1" dur="5s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(720 360)"><use href="#fly"><animateMotion dur="11s" begin="-2s" repeatCount="indefinite" path="M0,0 C30,-10 44,-34 16,-40 S-26,-12 0,0"/><animate attributeName="opacity" values=".2;1;.2" dur="3.8s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(960 300)"><use href="#fly"><animateMotion dur="13s" begin="-6s" repeatCount="indefinite" path="M0,0 C18,-26 46,-22 56,6 S28,36 0,0"/><animate attributeName="opacity" values="1;.2;1" dur="4.4s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(240 620)"><use href="#fly"><animateMotion dur="9s" begin="-3s" repeatCount="indefinite" path="M0,0 C-22,-18 -40,8 -20,26 S20,20 0,0"/><animate attributeName="opacity" values=".1;1;.1" dur="3.5s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(960 620)"><use href="#fly"><animateMotion dur="10s" begin="-7s" repeatCount="indefinite" path="M0,0 C30,-10 44,-34 16,-40 S-26,-12 0,0"/><animate attributeName="opacity" values="1;.1;1" dur="4.1s" repeatCount="indefinite"/></use></g>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo2MGNjZWEwMS1kNWIwLTQxM2QtOGNhNS1hNjEzMjUzMTU5YTUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaDxI1X0grXN678MMaIErXPAAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpkYjkzZGMwNi00NTM4LTQwNzEtOWVjYy04ZjU4MzYwMThjNGVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo1t1TfLbyBfBYyQv66NVnmwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggdq935VpvEw8MsWs03UCtjcdUkh+I55oNb6/zUmCiZGukZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaI9Pxt3AJ+9eRt/i/pNvKpEAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIEljxJX5tJZk1TGZamffWVEjqYLscgdnF2p2ALfbEN+GZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GTsUZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjYwY2NlYTAxLWQ1YjAtNDEzZC04Y2E1LWE2MTMyNTMxNTlhNS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjc0ODE2NTJmLWFjOTItNDI5Zi04NDA5LWZjOWEzM2Y1NDhhM3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCB2r3flWm8TDwyxazTdQK2Nx1SSH4jnmg1vr/NSYKJka6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggxXGT0nK0IXm7ca/iZ0ZDF9iVqniDcP9nYRLq6rWt9iqiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggyENwJdc44tJSoRsiEltjt9tdaXX8iA6xYhEx1yPN2RR0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQKwi/x0XIwl+bS7/mgjk0tuXhLbO6yIjSVE0FTura9KcaaRVoIr4TCBRDvPfhsfNjQ91QOKBPaMrYbHF/G2kUj8=</c2pa:manifest></metadata></svg>
