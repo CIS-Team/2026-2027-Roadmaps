@@ -138,9 +138,24 @@ _The content and structure may vary across tracks to reflect the scope and learn
 
 Every learning journey is different. These steps provide a flexible direction to help you build knowledge, gain practical experience, and grow in your chosen field.
 
-<p align="center">
-  <img src="./assets/forest-journey.svg" alt="The path: 1 Choose your track, 2 Learn the fundamentals, 3 Practice and apply, 4 Build real projects, 5 Review and improve, 6 Keep growing" width="100%" />
-</p>
+```text
+       CHOOSE YOUR TRACK
+              │
+              ▼
+      LEARN THE FUNDAMENTALS
+              │
+              ▼
+        PRACTICE & APPLY
+              │
+              ▼
+       BUILD REAL PROJECTS
+              │
+              ▼
+        REVIEW & IMPROVE
+              │
+              ▼
+          KEEP GROWING
+```
 
 > [!TIP]
 > **Remember:** A roadmap is a guide, not a race. Follow it at your own pace, adapt it to your needs, and focus on understanding rather than simply completing topics.
