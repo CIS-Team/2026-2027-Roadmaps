@@ -1,17 +1,29 @@
-# Computer Science · 2026–2027
+# 🚀 CS Roadmap
 
-**Status: Coming soon — awaiting mentor submissions**
+A structured Computer Science learning roadmap divided into 3 levels, with Arabic video resources and practice problems.
 
-CIS Team mentors: share a path that helps someone get started or go further in Computer Science. Written guides, PDFs, diagrams, presentations, and readable external links are welcome.
+## Levels
 
-## Mentor roadmaps
+| Level | Topics | Link |
+|-------|--------|------|
+| 🟢 Level 1 | Programming Fundamentals & OOP | [Open Level 1](level-1.md) |
+| 🟡 Level 2 | Data Structures & Algorithms and Problem Solving | [Open Level 2](level-2.md) |
+| 🔴 Level 3 | Operating Systems, Databases & Networking | [Open Level 3](level-3.md) |
 
-_No roadmaps have been merged for this track yet. This season's mentors will share their paths here._
+## Level Details
 
-## Add your contribution
+### 🟢 Level 1: Programming Fundamentals & OOP
+Core programming concepts and Object-Oriented Programming principles.
 
-Add your file or a short introduction with a link here, then list it above and open a pull request. Choose your own structure and language; the [starter outline](../templates/ROADMAP_TEMPLATE.md) is completely optional.
+### 🟡 Level 2: DSA & Problem Solving
+Data structures, algorithms, and problem-solving techniques.
 
-Need help with GitHub? Read the [contribution guide](../CONTRIBUTING.md).
+### 🔴 Level 3: OS, Databases & Networking
+- Operating Systems
+- Databases
+- Networking
 
-[← Explore all tracks](../README.md)
+## How to Use
+1. Start with Level 1 and follow the levels in order.
+2. Check off each task once you finish it.
+3. Don't move to the next level before completing the current one.
