@@ -1,68 +1,58 @@
-# Video Editing · Resources Hub
+# Video Editing · Original Video Resources
 
-A curated starting point for the 9-week roadmap. Prefer official documentation for software features, and use tutorials to see complete workflows in action. Check software requirements and licensing before downloading tools, footage, music or effects.
+This page collects the **same video links from the original 9-week roadmap**, grouped by their original week. No replacement tutorials are added.
 
----
+## Week 1 — Adobe Premiere Pro Basics
 
-## 1. Adobe Premiere Pro
+Choose one path:
 
-| Resource | Type | Best for |
-| :-- | :-- | :-- |
-| [Adobe Premiere Pro tutorials](https://helpx.adobe.com/premiere-pro/tutorials.html) | Official tutorials | Interface, editing and workflow |
-| [Premiere Pro User Guide](https://helpx.adobe.com/premiere-pro/user-guide.html) | Documentation | Detailed feature reference |
-| [Adobe Learn: Premiere Pro](https://www.adobe.com/learn/premiere-pro) | Guided learning | Beginner-to-intermediate lessons |
+- Arabic — [Mostafa Makram TV, Episodes 1–12](https://youtube.com/playlist?list=PLZ5zEGbaMXXXAr0Kz16KjinCUT7gvSqHY)
+- Arabic — [Ibrahim Diallo, Episodes 1–15](https://youtube.com/playlist?list=PLHuC_YapGnLzu_QEdHQqkiMwPwDtfC8pw)
+- English — [Premiere Pro Full Course, first 3 hours](https://youtu.be/eCsM0r3RNc4)
 
-**Use during:** Weeks 1–6.
+## Week 2 — Premiere Pro Basics & Plugins
 
-## 2. Adobe After Effects
+Choose one path:
 
-| Resource | Type | Best for |
-| :-- | :-- | :-- |
-| [After Effects tutorials](https://helpx.adobe.com/after-effects/tutorials.html) | Official tutorials | Compositions, animation and effects |
-| [After Effects User Guide](https://helpx.adobe.com/after-effects/user-guide.html) | Documentation | Keyframes, layers and rendering |
-| [Adobe Learn: After Effects](https://www.adobe.com/learn/after-effects) | Guided learning | Motion-graphics foundations |
+- Arabic — [Mostafa Makram TV, Episodes 13–20](https://youtube.com/playlist?list=PLZ5zEGbaMXXXAr0Kz16KjinCUT7gvSqHY)
+- Arabic — [Ibrahim Diallo, Episodes 16–24](https://youtube.com/playlist?list=PLHuC_YapGnLzu_QEdHQqkiMwPwDtfC8pw)
+- English — [Premiere Pro Full Course, hours 3–6](https://youtu.be/eCsM0r3RNc4)
 
-**Use during:** Weeks 7–9.
+## Week 3 — Sound Design
 
-## 3. Learning from Arabic tutorials
+Choose one language and watch both videos in that language in full.
 
-These are supplementary video lessons previously collected for this learning path. Use them alongside the weekly objectives; do not treat watching a playlist as a substitute for completing the task.
+**Arabic**
+- [Fares Toson](https://youtu.be/4qIv6U367n8?si=SVAXpHG-6l7HY9tl)
+- [Mohamed Adel, starting at 09:06](https://youtu.be/bicjsm0Vwb0?t=546&si=k3BlYdqGzVwLZfLr)
 
-| Topic | Resource |
-| :-- | :-- |
-| Premiere Pro foundations | [Mostafa Makram — YouTube](https://www.youtube.com/@MostafaMakramTV) |
-| Premiere Pro foundations | [Ibrahim Diallo — YouTube](https://www.youtube.com/@IbrahimDiallo) |
-| Sound design | [Fares Toson — lesson](https://youtu.be/4qIv6U367n8?si=SVAXpHG-6l7HY9tl) |
-| Sound design | [Mohamed Adel — lesson](https://youtu.be/bicjsm0Vwb0?t=546&si=k3BlYdqGzVwLZfLr) |
-| Sound design | [Finzar — lesson](https://www.youtube.com/watch?v=dfOffqhCiwo) |
-| Sound design | [Javier Mercedes — lesson](https://youtu.be/PmlonRJZooM?si=-wRmraJHYkt8Aql) |
-| Short-form editing practice | [Reel follow-along](https://youtu.be/FUTcvjqI-ac) |
-| Minimal reel practice | [Reel tutorial](https://youtu.be/A-G_PyG4fLU?si=dWLMB5a6pa15nntV) |
-| After Effects introduction | [After Effects lesson](https://youtu.be/jFbRZZmMW7c?si=3WSF9eYqI9oswhG_) |
-| Deep Glow installation | [Installation guide](https://youtu.be/EIJ17LSHzz8?si=GuuXjxBcVmvqfU5g) |
-| Text / UI animation | [Animation tutorial](https://youtu.be/M2Mqs1n97FA?si=PcV90UrozNEkc08r) |
-| Animation Composer | [Installation guide](https://youtu.be/LrjQWGfaqDo?si=bk9ZvPDanbTU-adM) |
-| Animation Composer | [Practice tutorial](https://youtu.be/PrEdG3pX44I) |
+**English**
+- [Finzar](https://www.youtube.com/watch?v=dfOffqhCiwo)
+- [Javier Mercedes](https://youtu.be/PmlonRJZooM?si=-wRmraJHYkt8Aql)
 
-*Third-party tutorials and plugin interfaces can change. Verify that a tutorial matches your installed software version.*
+## Week 4 — Sound Effects Practice Task
 
-## 4. Practice assets and licensing
+No public tutorial link is listed in the source document. Use the video supplied with the task on the course website.
 
-- Use your own footage whenever possible.
-- Use stock footage, music and sound effects only when the license permits your intended use.
-- Keep a note of each asset's source and license.
-- Do not redistribute paid plugins, copyrighted footage or unlicensed music.
+## Week 5 — Short-Form Editing Practice
 
-## 5. Suggested tools
+- [Muhammad Adel — Editing a Reel in Premiere Pro](https://youtu.be/FUTcvjqI-ac?si=-hNoDW0iP1Luhrcx)
 
-| Tool | Purpose |
-| :-- | :-- |
-| Adobe Premiere Pro | Main video editing |
-| Adobe After Effects | Motion graphics and animation |
-| Adobe Media Encoder | Export and encoding workflows |
-| Audacity (optional) | Basic standalone audio editing |
-| A headphones or speakers | Audio review |
+## Week 6 — White Minimal Reels
 
----
+- [The Nicks Edit — How to Edit White Minimal Reels That Go Viral (Premiere Pro Tutorial)](https://youtu.be/A-G_PyG4fLU?si=dWLMB5a6pa15nntV)
 
-[← Roadmap overview](README.md) · [Progress Tracker →](TRACKER.md)
+## Week 7 — Introduction to Adobe After Effects
+
+- [Ben Marriott — I’ll Teach You After Effects in 60 Minutes](https://youtu.be/jFbRZZmMW7c?si=3WSF9eYqI9oswhG_)
+
+## Week 8 — Deep Glow Effect
+
+- [Deep Glow effect file](https://drive.google.com/file/d/1M4-RZYpo6E2E0UukOEzmscIcPuA99_jh/view?usp=sharing)
+- [Deep Glow installation tutorial](https://youtu.be/EIJ17LSHzz8?si=GuuXjxBcVmvqfU5g)
+- [Mojtaba Sorbi — Create Smooth UI Text Animation in After Effects (SaaS Style)](https://youtu.be/M2Mqs1n97FA?si=PcV90UrozNEkc08r)
+
+## Week 9 — Animation Composer
+
+- [After Effects Tutorials — Install and Download Animation Composer 3](https://youtu.be/LrjQWGfaqDo?si=bk9ZvPDanbTU-adM)
+- [Tarık | Video Editor — How to Edit VIRAL Short Form Motion Graphic Reels in After Effects](https://youtu.be/PrEdG3pX44I?si=_cG18TTspnWiKn0j)
