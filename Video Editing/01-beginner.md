@@ -1,104 +1,58 @@
-# 01 · Beginner — Weeks 1–3
+# Weeks 1–3 · Premiere Pro Basics & Sound Design
 
-**Goal:** Become comfortable with Adobe Premiere Pro and complete a clean first edit.
+These weeks follow the original learning roadmap. Keep the same weekly order and use the exact video resources below.
 
-**Recommended pace:** 6–8 hours per week.
+## Week 1: Adobe Premiere Pro Basics
 
----
+Start by learning the Premiere Pro interface and the essential tools used to assemble and edit a video.
 
-## Week 1 · Premiere Pro Foundations
+### Learning resources — choose ONE path
 
-**Goal:** Understand the interface and create an organized editing project.
+**Arabic resources**
+- [Mostafa Makram TV — Episodes 1–12](https://youtube.com/playlist?list=PLZ5zEGbaMXXXAr0Kz16KjinCUT7gvSqHY)
+- [Ibrahim Diallo — Episodes 1–15](https://youtube.com/playlist?list=PLHuC_YapGnLzu_QEdHQqkiMwPwDtfC8pw)
 
-### Topics
-- What video editing is: footage, codecs, frame rates, resolution and aspect ratios.
-- Premiere Pro workspace: Project panel, Source Monitor, Program Monitor, Timeline and Tools.
-- Creating a project and sequence with suitable settings.
-- Importing, labeling and organizing footage, audio and graphics.
-- Saving projects and understanding the relationship between project files and source media.
+**English resource**
+- [Premiere Pro Full Course — first 3 hours](https://youtu.be/eCsM0r3RNc4)
 
-### Practice
-1. Create a project named `week-01-first-project`.
-2. Import at least 5 video clips and 2 audio files.
-3. Organize them into clearly named bins.
-4. Create a sequence that matches your footage.
-5. Place clips on the timeline and preview the sequence.
+### Suggested outcome
+Become comfortable navigating Premiere Pro, importing media, working with the timeline, making basic cuts, and exporting a simple video.
 
-### Weekly task · Organized project
-Submit a screenshot of your organized Project panel and Timeline, plus the Premiere project file and its required media assets.
-
-### Exit checklist
-- [ ] I can create a project and sequence.
-- [ ] I can import and organize media.
-- [ ] I understand the difference between a project and an exported video.
-- [ ] I can navigate the Source Monitor, Program Monitor and Timeline.
+> The original source mentions a bonus section about understanding different types, but its title and details were incomplete. No additional video is assumed here.
 
 ---
 
-## Week 2 · Cutting, Timeline and Pacing
+## Week 2: Premiere Pro Basics & Plugins
 
-**Goal:** Build a coherent sequence using accurate cuts and simple transitions.
+Continue building your editing skills and learn how plugins can make common editing tasks faster and more creative.
 
-### Topics
-- Selecting, moving, trimming and splitting clips.
-- Ripple and rolling edits.
-- Track targeting, snapping and linked selection.
-- Using markers to plan an edit.
-- Continuity, jump cuts, match cuts and basic pacing.
-- Basic transitions and when not to use them.
-- Working with music on the timeline.
+### Learning resources — choose ONE path
 
-### Practice
-1. Create a 30–45 second sequence from the footage used in Week 1.
-2. Remove pauses and unnecessary footage.
-3. Arrange shots to create a clear beginning, middle and ending.
-4. Add music and align important cuts with the rhythm where appropriate.
-5. Use transitions only when they improve the flow.
+**Arabic resources**
+- [Mostafa Makram TV — Episodes 13–20](https://youtube.com/playlist?list=PLZ5zEGbaMXXXAr0Kz16KjinCUT7gvSqHY)
+- [Ibrahim Diallo — Episodes 16–24](https://youtube.com/playlist?list=PLHuC_YapGnLzu_QEdHQqkiMwPwDtfC8pw)
 
-### Weekly task · First sequence
-Export a 30–45 second video. Keep a copy of the editable Premiere project.
+**English resource**
+- [Premiere Pro Full Course — hours 3–6](https://youtu.be/eCsM0r3RNc4)
 
-### Exit checklist
-- [ ] I can trim and split clips accurately.
-- [ ] I understand ripple edits and rolling edits.
-- [ ] I can arrange shots to create a clear sequence.
-- [ ] I can use transitions without overusing them.
-- [ ] I can align cuts with audio.
+### Introduction to plugins
+A plugin is an add-on that extends the software with extra effects, transitions, presets, or workflow tools. The original notes introduce this topic, but the detailed plugin lesson text was incomplete.
 
 ---
 
-## Week 3 · Titles, Color and Export
+## Week 3: Sound Design
 
-**Goal:** Finish a short video with readable titles, consistent visuals and correct export settings.
+Learn how sound design adds depth, atmosphere, and impact through audio effects.
 
-### Topics
-- Adding and formatting text and basic titles.
-- Font choice, hierarchy, alignment and safe margins.
-- Basic exposure, contrast, white balance and saturation adjustments.
-- Matching shots so they look consistent.
-- Audio levels and avoiding clipping.
-- Export settings: format, codec, resolution, frame rate and bitrate.
-- H.264 export and checking the final file.
+**Choose the language you will study in. Watch BOTH videos listed under that language, and watch them in full.**
 
-### Practice
-1. Add an opening title and a closing title.
-2. Correct exposure and white balance where needed.
-3. Match the overall look across the shots.
-4. Balance music and original audio.
-5. Export an MP4 and watch it from beginning to end.
+**Arabic resources**
+- [Fares Toson — full video](https://youtu.be/4qIv6U367n8?si=SVAXpHG-6l7HY9tl)
+- [Mohamed Adel — Premiere Pro, from 09:06](https://youtu.be/bicjsm0Vwb0?t=546&si=k3BlYdqGzVwLZfLr)
 
-### Weekly task · First finished edit
-Create a **30–60 second video** with clean cuts, titles, basic color correction and balanced audio.
+**English resources**
+- [Finzar](https://www.youtube.com/watch?v=dfOffqhCiwo)
+- [Javier Mercedes](https://youtu.be/PmlonRJZooM?si=-wRmraJHYkt8Aql)
 
-### Exit checklist
-- [ ] I can create readable titles.
-- [ ] I can make basic color corrections.
-- [ ] I can balance audio and avoid clipping.
-- [ ] I can export an MP4 with suitable settings.
-- [ ] I can review an export and identify issues.
-
-**Milestone 1:** A clean, finished first edit.
-
----
-
-[← Roadmap overview](README.md) · [Next: Intermediate →](02-intermediate.md)
+### Practice focus
+Pay attention to how sound effects support the visuals, improve transitions, and create a stronger sense of timing and atmosphere.
