@@ -28,7 +28,7 @@
   <a href="#the-shared-foundation">Shared foundation</a> ·
   <a href="#build-as-you-learn">Projects</a> ·
   <a href="#official-documentation">Documentation</a> ·
-  <a href="#contributing">Contribute</a>
+  <a href="#thanks">Thanks</a>
 </p>
 
 <p align="center"><img src="assets/backend-divider.svg" alt="" width="100%" /></p>
@@ -170,20 +170,13 @@ For shared concepts: [MDN HTTP](https://developer.mozilla.org/en-US/docs/Web/HTT
 - [Django further learning](Django/README.md#-what-after-that)
 - [.NET roadmap updates](.NET/README.md)
 
-<a id="contributing"></a>
+<a id="thanks"></a>
 
-## Contributing
+## Thanks
 
-Help keep these paths useful by improving an explanation, replacing an outdated resource, fixing a link, or adding an exercise with a clear outcome.
+Thank you to the CIS Team Backend mentors who put together these roadmaps and share their time and experience with learners.
 
-1. Fork the repository and create a branch for your change.
-2. Update the relevant path and check its links.
-3. For a new resource, state what it teaches, its language, and whether it is free or paid. Include version information when relevant.
-4. Open a pull request explaining what changed and how it helps learners.
-
-For a proposed change to learning order or scope, explain the prerequisite it addresses and the practical outcome you expect. Discuss the change with the relevant mentor.
-
-[Report an issue](https://github.com/CIS-Team/2026-2027-Roadmaps/issues) · [View pull requests](https://github.com/CIS-Team/2026-2027-Roadmaps/pulls) · [Explore all learning tracks](../README.md)
+And thank you to everyone learning with us, asking questions, and sharing what they build along the way.
 
 <p align="center">
   <picture>
