@@ -1,117 +1,49 @@
-# 03 · Advanced — Weeks 7–9
+# Weeks 7–9 · Adobe After Effects
 
-**Goal:** Learn the foundations of Adobe After Effects and combine motion graphics with an edited video.
+These final weeks follow the original After Effects sequence: introduction, Deep Glow, then Animation Composer.
 
-**Recommended pace:** 6–8 hours per week.
+## Week 7: Introduction to Adobe After Effects
 
-> You do not need to become an advanced visual-effects artist in three weeks. The goal is to understand the workflow and create simple, controlled motion graphics that improve an edit.
+Begin the transition from Premiere Pro to After Effects. The tutorial introduces the program while creating a video project.
 
----
+### Tutorial
+- [Ben Marriott — I’ll Teach You After Effects in 60 Minutes](https://youtu.be/jFbRZZmMW7c?si=3WSF9eYqI9oswhG_)
 
-## Week 7 · After Effects Foundations
+### Task
+Submit the video you created while following the tutorial. The required assets file is available on the dashboard alongside the task.
 
-**Goal:** Understand compositions, layers and keyframe animation.
-
-### Topics
-- The After Effects interface and workspace.
-- Compositions, frame rate, resolution and duration.
-- Importing footage, images and audio.
-- Layers, anchor points, position, scale, rotation and opacity.
-- Keyframes and the timeline.
-- Easy Ease, motion paths and the Graph Editor introduction.
-- Previewing and rendering a composition.
-
-### Practice
-1. Create a composition matching your Week 6 reel.
-2. Import a title or graphic.
-3. Animate position, scale and opacity using keyframes.
-4. Adjust timing and easing to make movement feel natural.
-5. Render a short transparent or regular-background animation as appropriate.
-
-### Weekly task · Animated composition
-Create a 5–8 second title or logo animation. Submit the rendered video and the After Effects project with its assets.
-
-### Exit checklist
-- [ ] I can create a composition with the correct settings.
-- [ ] I understand layers and anchor points.
-- [ ] I can animate position, scale, rotation and opacity.
-- [ ] I can adjust keyframe timing and easing.
-- [ ] I can render and review a composition.
+### Before submitting
+- [ ] Download the assets supplied with the task.
+- [ ] Follow the tutorial and recreate the demonstrated result.
+- [ ] Check that the project and final video are saved correctly.
+- [ ] Submit the final video as requested.
 
 ---
 
-## Week 8 · Text Animation, Masks and Visual Effects
+## Week 8: Deep Glow Effect
 
-**Goal:** Create clear text animation and use a few effects deliberately.
+Learn Deep Glow, an effect used in After Effects to add light and polish to motion graphics.
 
-### Topics
-- Text layers and typography in motion.
-- Text animators and range selectors.
-- Masks, track mattes and simple reveals.
-- Parenting and null objects.
-- Motion blur and easing.
-- Glow and light effects: when and where to use them.
-- Layer order and pre-compositions.
-- Keeping effects subtle and maintaining readability.
+### Step 1 — Download the effect
+- [Deep Glow effect file](https://drive.google.com/file/d/1M4-RZYpo6E2E0UukOEzmscIcPuA99_jh/view?usp=sharing)
 
-### Practice
-1. Create a 5–10 second animated title sequence.
-2. Animate text in and out with opacity and position.
-3. Use a mask or track matte for one reveal.
-4. Add motion blur where it improves movement.
-5. Apply glow only to elements that need emphasis.
+### Step 2 — Learn how to install it
+- [Installation tutorial](https://youtu.be/EIJ17LSHzz8?si=GuuXjxBcVmvqfU5g)
 
-### Weekly task · Motion title
-Create a title sequence with at least two animated text elements and one mask-based reveal. Submit the render and editable project.
-
-### Exit checklist
-- [ ] I can animate text with controlled timing.
-- [ ] I can create a basic mask reveal.
-- [ ] I understand parenting and pre-compositions.
-- [ ] I can use motion blur and glow without overdoing them.
-- [ ] I can keep animated text readable.
+### Step 3 — Complete the weekly task
+Follow the tutorial below and recreate the animation.
+- [Mojtaba Sorbi — Create Smooth UI Text Animation in After Effects (SaaS Style)](https://youtu.be/M2Mqs1n97FA?si=PcV90UrozNEkc08r)
 
 ---
 
-## Week 9 · Motion Graphics Workflow and Final Project
+## Week 9: Animation Composer
 
-**Goal:** Combine Premiere Pro editing and After Effects motion graphics into one finished piece.
+This week introduces Animation Composer, a tool that helps speed up animation workflows in After Effects.
 
-### Topics
-- Planning motion graphics before animating.
-- Designing a simple title system: typography, spacing and hierarchy.
-- Creating reusable animated elements.
-- Moving assets between Premiere Pro and After Effects.
-- Dynamic Link basics and rendered intermediate files.
-- Managing versions, collecting assets and final delivery.
-- Reviewing timing, consistency, audio and export quality.
+### Step 1 — Install Animation Composer
+The installation process is similar to the workflow used for Premiere Pro. If you need a refresher, use the installation tutorial below.
+- [After Effects Tutorials — Install and Download Animation Composer 3](https://youtu.be/LrjQWGfaqDo?si=bk9ZvPDanbTU-adM)
 
-### Practice
-1. Revisit your Week 6 reel or create a new 30–60 second edit.
-2. Design a short title or graphic package in After Effects.
-3. Add the motion graphics to the Premiere Pro edit.
-4. Refine timing, transitions and sound.
-5. Export the final video and check the entire result.
-
-### Weekly task · Final project
-Create a **30–60 second video** that includes:
-- A clear story or message.
-- Intentional cuts and pacing.
-- Balanced music, ambience or sound effects.
-- Consistent titles and visual treatment.
-- At least one original After Effects motion-graphics element.
-
-Submit the final MP4, Premiere Pro project, After Effects project and all required assets.
-
-### Exit checklist
-- [ ] I can plan a simple motion-graphics element for an edit.
-- [ ] I can move assets between Premiere Pro and After Effects.
-- [ ] I can keep typography and motion consistent.
-- [ ] I can organize and package project files.
-- [ ] I can explain the editing and animation decisions in my final project.
-
-**Milestone 3:** A complete short video combining editing, sound design and motion graphics.
-
----
-
-[← Intermediate](02-intermediate.md) · [Roadmap overview](README.md) · [Resources →](RESOURCES.md)
+### Step 2 — Complete the animation task
+Follow the tutorial and recreate the same animation shown in the video.
+- [Tarık | Video Editor — How to Edit VIRAL Short Form Motion Graphic Reels in After Effects](https://youtu.be/PrEdG3pX44I?si=_cG18TTspnWiKn0j)
