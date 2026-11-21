@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+<title id="title">Your next commit</title><desc id="desc">Build something you can explain. A terminal lists the learning cycle: learn, build, test, and ship.</desc>
+<rect width="1200" height="190" rx="20" fill="#0C1728"/>
+<rect x=".5" y=".5" width="1199" height="189" rx="20" fill="none" stroke="#263A52"/>
+<g font-family="sans-serif">
+<text x="48" y="48" font-size="11" letter-spacing="2" fill="#61E3E6">YOUR NEXT COMMIT</text>
+<text x="46" y="96" font-size="29" font-weight="bold" fill="#F3F7FF">Build something</text>
+<text x="46" y="135" font-size="29" font-weight="bold" fill="#F3F7FF">you can explain.</text>
+<rect x="569" y="24" width="583" height="142" rx="10" fill="#09111F" stroke="#2B4058"/>
+<path d="M569 52H1152" stroke="#1C3047"/>
+<circle cx="587" cy="39" r="3" fill="#647D98"/><circle cx="600" cy="39" r="3" fill="#647D98"/><circle cx="613" cy="39" r="3" fill="#647D98"/>
+<text x="638" y="43" font-family="monospace" font-size="10" fill="#7890AA">backend / learning loop</text>
+</g>
+<text x="591" y="81" font-family="monospace" font-size="13" fill="#61E3E6">&gt; learn</text><text x="714" y="81" font-family="monospace" font-size="13" fill="#61E3E6">understand one concept</text><text x="591" y="102" font-family="monospace" font-size="13" fill="#829BB3">&gt; build</text><text x="714" y="102" font-family="monospace" font-size="13" fill="#829BB3">implement one feature</text><text x="591" y="123" font-family="monospace" font-size="13" fill="#829BB3">&gt; test</text><text x="714" y="123" font-family="monospace" font-size="13" fill="#829BB3">verify its behavior</text><text x="591" y="144" font-family="monospace" font-size="13" fill="#829BB3">&gt; ship</text><text x="714" y="144" font-family="monospace" font-size="13" fill="#829BB3">share it, then improve</text></svg>
