@@ -1,17 +1,14 @@
-# Game Development · 2026–2027
+# Game Development Roadmap
 
-**Status: Coming soon — awaiting mentor submissions**
+This roadmap takes you from zero to making and publishing your own games, then to building more complex games with real tools and techniques. It uses Unity (Godot coming soon). The beginner track takes about 2 months and the intermediate track about 3 months, at 4-5 hours per week. You can continue at your own pace after the season ends.
 
-CIS Team mentors: share a path that helps someone get started or go further in Game Development. Written guides, PDFs, diagrams, presentations, and readable external links are welcome.
+## Tracks
 
-## Mentor roadmaps
+| Track | Who it is for | Length | Outcome |
+|:--|:--|:--|:--|
+| [Beginner](01-beginner/README.md) | No game development experience | 8 weeks | A game you built and published on itch.io |
+| [Intermediate](02-intermediate/README.md) | Finished the beginner track, or already know Unity and C# | 12 weeks | Portfolio-level projects using the tools professionals use |
 
-_No roadmaps have been merged for this track yet. This season's mentors will share their paths here._
+Experienced members can skip the beginner track and start at the intermediate one.
 
-## Add your contribution
-
-Add your file or a short introduction with a link here, then list it above and open a pull request. Choose your own structure and language; the [starter outline](../templates/ROADMAP_TEMPLATE.md) is completely optional.
-
-Need help with GitHub? Read the [contribution guide](../CONTRIBUTING.md).
-
-[← Explore all tracks](../README.md)
+------------------------------------------------------------------------
