@@ -125,7 +125,7 @@ The UI videos do not use DOTween. Apply it yourself whenever you animate UI thro
 | **Start here** | [How video game graphics work](https://www.youtube.com/watch?v=C8YtdC8mxTU) <br> [What are shaders](https://youtu.be/pYgBvz9Yxuo) | How rendering works and what shaders do. |
 | **Shader Graph** | [Shader Graph basics playlist](https://www.youtube.com/playlist?list=PLsaDw3p1XpJiGHPnA8gZH6gO2gQYz3JH1) | Build shaders visually. |
 | **HLSL** | [HLSL shader basics playlist](https://www.youtube.com/playlist?list=PLsaDw3p1XpJivdTbFKP7cBV-WhhJ6qZ20) | Write shaders in code. |
-| **Reference** | [Large shader library](https://www.youtube.com/playlist?list=PLpPd_BKEUoYjcFaqriaMchx5gOqBs2tDh) <br> [Catlike Coding](https://catlikecoding.com/) <br> [The Unity Shaders Bible (book)](https://github.com/costudiolabor/Shaders/blob/main/The%20Unity%20Shaders%20Bible%20(Jettelly).pdf) | Examples and in-depth material to look things up in. |
+| **Reference** | [Large shader library](https://www.youtube.com/playlist?list=PLpPd_BKEUoYjcFaqriaMchx5gOqBs2tDh) <br> [Catlike Coding](https://catlikecoding.com/) <br> [The Unity Shaders Bible (resource)](https://github.com/costudiolabor/Shaders/blob/main/The%20Unity%20Shaders%20Bible%20(Jettelly).pdf) <br> [The Book of Shaders (resource)](https://thebookofshaders.com/) | Examples and in-depth material to look things up in. |
 
 **Task:** Make at least one shader of your own, in Shader Graph or HLSL, and use it in a project.
 
