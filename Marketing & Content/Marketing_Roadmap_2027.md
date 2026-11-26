@@ -1,0 +1,121 @@
+
+# 📚 Marketing Roadmap
+
+A practical learning roadmap that takes you from Marketing fundamentals to **Content & Copywriting**.
+
+---
+
+## 🟢 Phase 1 — Marketing Fundamentals
+
+### 📌 1. Marketing Fundamentals
+
+🔗 **Resources**
+- [Marketing Fundamentals](https://youtu.be/_o6cTYOf17M?si=Z1DwHFkI8msamPG-)
+
+---
+
+### 👤 2. Buyer Persona
+
+🔗 **Resources**
+- [Buyer Persona — Resource 1](https://youtu.be/TUc_I3NW7oY?si=HhRtDMRTpkK5yz8n)
+- [Buyer Persona — Resource 2](https://youtu.be/9aPAPANeMKg?si=wtdMnyYMVrabnlGr)
+
+---
+
+### 🎯 3. STP — Segmentation, Targeting & Positioning
+
+🔗 **Resources**
+- [STP — Resource 1](https://youtu.be/2IHsnMEcQq4?si=y7uXQZK6a5XZBtxc)
+- [STP — Resource 2](https://youtu.be/iGOw39GWDaI?si=BLc7pgqNWM0fkKpI)
+
+---
+
+### 🧭 4. Customer Journey & Marketing Funnel
+
+🔗 **Resources**
+
+- In Arabic: https://youtu.be/EMSZ6eMKUf8?si=318aRAyyqmhn9Xb8
+- In English: https://youtu.be/iRjXccj4yRo?si=y8EUucG-6wQH_lPP
+
+---
+
+### 🏷️ 5. Branding Basics
+
+🔗 **Resources**
+- [Branding Basics](https://youtu.be/j4sdcdoVlKc?si=8lsZHC_Vg1X9XgwO)
+
+---
+
+### 🧠 6. Marketing Strategy
+
+A deeper understanding of how marketing fundamentals come together to build an effective marketing strategy.
+
+🔗 **Resources**
+- [Marketing Strategy](https://youtu.be/esQi_fQNrE4)
+
+---
+
+### 🛠️ 8. Revision & Real-life Practical Implementation
+
+Put everything you've learned into practice by applying the concepts to a real brand or business.
+
+**Topics to practice:**
+- Marketing Fundamentals
+- Buyer Persona
+- STP
+- Customer Journey
+- Marketing Funnel
+- Branding Basics
+- Marketing Strategy
+- Creativity & Creative Direction
+
+---
+
+# 🟣 Phase 2 — Marketing Specializations
+
+An introduction to the different areas within Marketing.
+
+### 📌 Introduction to Marketing Specializations
+
+🔗 **Resources**
+- [Marketing Specializations — Intro 1](https://youtu.be/GFifm_fvkRk?si=lPexARcDu2e4O5lq)
+- [Marketing Specializations — Intro 2](https://youtu.be/sbJUSPLzhQo?si=lZBOdRNVb_MqlKJS)
+
+---
+
+## ✍️ Content & Copywriting
+
+The roadmap will focus on this track being **Content & Copywriting**.
+
+🔗 **Resources**
+- Start Here: https://youtu.be/2TR-6V41M48?si=WKJzUCX-hQ_SZ4X6
+- Go Deeper: [Content & Copywriting — Playlist](https://youtube.com/playlist?list=PLVkXY0WTlcZ1KkPaZj9OKbYPomvnbCU00&si=xSb3jNuE3Y1Kl4xH)
+- Additional Resources: [Content & Copywriting — Drive Resources](https://drive.google.com/drive/folders/1UmFIsUEuJLOLZNFxGYqxMkury3PH09mG)
+
+---
+
+### 🚀 Professional Application
+
+📊 **Understanding KPIs**  
+   https://youtu.be/QqfZUltP28o
+
+   
+## 🟣 Explore More Marketing Specializations
+
+###  Media Buying
+
+**From Beginner to Intermediate:**
+
+- **Start Here:** [Media Buying Course](https://drive.google.com/drive/folders/186JZ7hghDd8P6s1Ehz6CRPDZXkhySkhm)
+
+  A practical, step-by-step course suitable for beginners to build their foundations in Media Buying.
+
+- **Go Deeper:** [Media Buying Playlist](https://youtube.com/playlist?list=PLxe78bIBB8nWcaxFmka8gifMQpwuaCsE-&si=7M9w0frZNFViA27q)
+
+  Recommended for learners who already have a basic understanding of Marketing and want to develop their Media Buying skills further.
+
+**From Intermediate to Advanced:**
+
+- [Advanced Media Buying Playlist](https://youtube.com/playlist?list=PLfVHOLEyCB5yAdGypsqDG-B_4qwOe69Kr&si=swSnzx5d13FHHS_j)
+
+- [Elevr Community — YouTube Channel](https://www.youtube.com/@ElevrCommunity-21)
