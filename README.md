@@ -106,7 +106,7 @@ Explore our **13 learning tracks**, organized by domain to help you find your st
 
 | Track                                                                                                         | Focus Areas & Core Technologies                                                                           | Ideal For                                                                                 |
 | :------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
-| [**Business Analysis**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Business%20Analysis)         | Requirements engineering, BPMN process modeling, stakeholder alignment, and data-driven product strategy. | Strategic thinkers who enjoy bridging the gap between business goals and technical teams. |
+| [**Business Analysis**](./Business%20Analysis/README.md)         | Stakeholder analysis, requirements elicitation, UML diagrams, requirements documentation, and Agile delivery. | Strategic thinkers who enjoy bridging the gap between business goals and technical teams. |
 | [**Marketing & Content**](https://github.com/CIS-Team/2026-2027-Roadmaps/tree/main/Marketing%20%26%20Content) | Digital growth strategy, content architecture, copywriting, audience analytics, and brand storytelling.   | Communicators focused on growing communities, products, and brand reach.                  |
 
 <p align="right">
