@@ -1,12 +1,19 @@
 <a id="top"></a>
 
-<h1 align="center">Business Analysis</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:164E63,50:374B97,100:68429C&amp;height=220&amp;section=header&amp;text=Business%20Analysis%20Roadmap&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=CIS%20Team%20%C2%B7%202026%E2%80%932027&amp;descSize=20&amp;descAlignY=60" width="100%" alt="Business Analysis Roadmap · CIS Team 2026–2027" />
+</p>
 
-<p align="center"><strong>CIS Team · 2026–2027</strong></p>
+<p align="center">
+  <a href="#module-2"><img src="https://img.shields.io/badge/Business%20Needs-374B97?style=for-the-badge" alt="Business Needs" /></a>
+  <a href="#module-3"><img src="https://img.shields.io/badge/Requirements-374B97?style=for-the-badge" alt="Requirements" /></a>
+  <a href="#module-4"><img src="https://img.shields.io/badge/Process%20Modeling-374B97?style=for-the-badge" alt="Process Modeling" /></a>
+  <a href="#module-8"><img src="https://img.shields.io/badge/Agile-374B97?style=for-the-badge" alt="Agile" /></a>
+</p>
+
+---
 
 A stakeholder asks for a new feature. What problem are they trying to solve? Who else does it affect? How will the team know the result meets the need? This roadmap follows those questions from the first conversation through requirements, process models, and Agile delivery.
-
-<p align="center"><img src="../assets/forest-divider.svg" width="100%" alt="" /></p>
 
 ## Learning path
 
