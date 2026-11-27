@@ -104,4 +104,4 @@ Examine a real business analysis project in detail. Identify the original need, 
 - **Other approaches.** Explore Extreme Programming (XP), Lean, and the Scaled Agile Framework (SAFe). Compare these with the V-Model and its links between development and testing.
 - **Working with the backlog.** Write user stories with acceptance criteria, refine backlog items, and practice estimation with Planning Poker and T-shirt sizing.
 
-[← Explore all tracks](../README.md) · [Contribution guide](../CONTRIBUTING.md) · [Back to top ↑](#top)
+[← Explore all tracks](../README.md) · [Back to top ↑](#top)
